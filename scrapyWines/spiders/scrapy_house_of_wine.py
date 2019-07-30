@@ -1,5 +1,5 @@
 import scrapy
-from scrapyWines.items import HouseOfWinesItem
+from scrapyWines.items import MajesticWine
 from scrapy.loader import ItemLoader
 import re
 import pandas as pd 
@@ -23,11 +23,10 @@ class SpyderHouseWines(scrapy.Spider):
     def is_percent(self,string):
         return string.endswith('%')
     
-    def is_volume(self,string):
-        return string.endswith('ml')
+
 
     def start_requests(self):
-        urls= get_urls()[20:]
+        urls= get_urls()
 
         print(urls)
 
@@ -36,7 +35,7 @@ class SpyderHouseWines(scrapy.Spider):
         
     def parse(self,response):
         product_name = response.css('div.product-name > h1::attr(title)').extract_first()
-        availability = response.css('span.backorder::text').extract_first()
+       
         price = response.css('span.regular-price > span.price::text').extract_first()
         price_discount = response.css('li.tier-0 > span.price::text').extract_first()
         producer_and_grape_var = response.css('tr > td  > a ::text').extract()
@@ -44,7 +43,7 @@ class SpyderHouseWines(scrapy.Spider):
             "product_name": product_name if product_name is not None else "" ,
         
 
-            "availability" : availability if availability is not None else "",
+            
         
             "price" : price[1:] if price is not None else "",
         
@@ -56,32 +55,94 @@ class SpyderHouseWines(scrapy.Spider):
             
         }
         table_data= response.css('tr>td.data::text').extract()
+        #data["wine_color"] = table_data[0]
         for row in table_data:
             
             if self.is_year(row) is not None:
                 match = self.is_year(row)
                 data["year"] = match.group(0)[-4:] 
                           
-            elif self.is_volume(row):
-                data["volume_mlt"]= row 
-                
+          
             elif self.is_percent(row): 
                 data["alcohol_percent"] = row
+            elif row in ["White","Red"]:
+                data["wine_color"] = row
         
-        posible_none_keys= ["year","volume_mlt","alcohol_percent"]
+        posible_none_keys= ["year","alcohol_percent","wine_color"]
         for keys in posible_none_keys:
             if data.get(keys) is None:
                 data[keys]= ""
+        print("voy a crear el item loader ")
         
+        wine_loader = ItemLoader(
+                    item=MajesticWine(),
+                    
+
+                )
+
+        wine_loader.add_value(
+                'product_name',
+                data.get('product_name')
+                )
+        wine_loader.add_value(
+                'price',
+                data.get('price')
+                )
+
+        wine_loader.add_value(
+                'discount_price',
+                data.get('discount_price')
+                )
+        wine_loader.add_value(
+                'producer',
+                data.get('producer')
+                )
+
+        wine_loader.add_value(
+            'grape_variety',
+             data.get('grape_variety')
+                )
+
+        wine_loader.add_value(
+            'wine_color',
+            data.get('wine_color')
+
+                )
+
+        wine_loader.add_value(
+            'year',
+            data.get('year')
+                )
+
+        wine_loader.add_value(
+            'alcohol_percent',
+            data.get('alcohol_percent')
+                )
+
+        wine_loader.add_value(
+            'country',
+            'Greece'
+                )
+        print("espero que cargue el item")
+        print(wine_loader.load_item())
+        yield wine_loader.load_item()
+
+
+
+
+
+
+
+
         #print(f" product name: { response.css('div.product-name > h1::attr(title)').extract()}")
         #print(f"alcohol_percet: {response.css('tr>td.dat::text').extract()[12]}")
         #df = pd.DataFrame(data)
         
 
-        print(f"que se {data}")
-        with open("temp/housewines.txt",mode='a+') as file: 
-            file.write(','.join(data.values()))
-            file.write('\n')      
+        #print(f"que se {data}")
+        #with open("temp/housewines.txt",mode='a+') as file: 
+         #   file.write(','.join(data.values()))
+          #  file.write('\n')      
         #yield producto_loader.load_item()
         #print("que se yo")
         #print(producto_imprimir)

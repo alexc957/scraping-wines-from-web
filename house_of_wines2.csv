@@ -1,0 +1,363 @@
+alcohol_percent,country,discount_price,grape_variety,price,producer,product_name,wine_color,year
+14,Greece,,Agiorgitiko,49.6,Nemeion,Igemon (1741),Red,2007
+,Greece,,Malagouzia,12.1,Karadimos,Malagouzia Drios Karadimou (2915),White,2017
+13.5,Greece,,Cabernet Franc,15.5,Porto Carras,Chateau Porto Carras (472),Red,2010
+14,Greece,,Syrah,27.3,Avantis,Freedom (3929),Red,2016
+13.5,Greece,,Athiri,9.5,Porto Carras,Melissanthi (467),White,2018
+,Greece,,Cabernet Sauvignon,8.6,Karadimos,Hilia Stafilia (3805),Red,2017
+12.5,Greece,,Agiorgitiko,12.3,Lafkiotis,Agionymo Lafkiotis (2647),Red,2000
+13,Greece,,Agiorgitiko,8.6,Semeli,Orinos Helios - Rose (2256),,2009
+12.5,Greece,,Malagouzia,10.2,Lantides,Mikri Kivotos - White (960),White,
+13.9,Greece,,Cabernet Sauvignon,8.4,Lantides,Lantides Estate - Chrysampelo (1745),Red,2005
+12.6,Greece,,Viognier,8.8,Mercury,Foloi (388),White,2018
+14,Greece,,Syrah,22.4,Avantis,Plagies Gerakion - Red (2517),Red,2016
+12,Greece,,Moshofilero,8.8,Lantides,Anosis (1749),White,2018
+12.6,Greece,,Chardonnay,13.3,Claudia Papayianni,Domaine Claudia Papayianni White (2543),White,2016
+12,Greece,,Malagouzia,12.1,Claudia Papayianni,Alexandra (2544),White,2018
+12.2,Greece,,Viognier,10.4,Claudia Papayianni,CP White (2545),White,2017
+13,Greece,,Syrah,8.6,Semeli,Orinos Helios - Red (490),Red,2017
+11.5,Greece,,Moshofilero,7.4,Lafkiotis,Moschofilero Lafkiotis (2648),White,2007
+,Greece,,Agiorgitiko,6.6,Semeli,Giorti - White (2696),Red,
+13.2,Greece,,Sauvignon Blanc,13.0,Akrathos,Oros (4078),White,2017
+14,Greece,,Agiorgitiko,16.6,Palivos,Terra Leone - Ammos Reserve (73),Red,2006
+14,Greece,,Chardonnay,36.0,Antonopoulos,ANAX (154),White,2018
+12.5,Greece,,Moshofilero,11.8,Gentilini Kosmetatos,Notes Rose (228),,2018
+13.5,Greece,,Agiorgitiko,10.9,Palivos,Palivou Estate - Nemea (74),Red,2006
+12,Greece,,Kotsifali,5.3,Boutari,Boutari - Kritikos Red (3037),Red,2016
+,Greece,,Moshofilero,6.6,Semeli,Piccolo Mondo - White (2697),White,
+13,Greece,,Cabernet Sauvignon,8.2,Symeonidis,Iliostalachtos - Red (2075),Red,2013
+12.5,Greece,,Sauvignon Blanc,6.9,Symeonidis,Iliostalachtos - White (2074),White,2018
+13,Greece,,Sauvignon Blanc,11.7,Ampelois,Symfonia (2186),White,2017
+12,Greece,,Chardonnay,9.9,Boutari,4 Epoches (9),White,2010
+"15,5",Greece,,Cabernet Franc,20.4,Antonopoulos,Nea Dris- Cabernet (162),Red,2015
+14,Greece,,Merlot,15.4,Ampelois,Ampelois Gold (2183),Red,2012
+13,Greece,,Syrah,13.5,Gentilini Kosmetatos,Notes Red (226),Red,2017
+14,Greece,,Sangiovese,16.9,Karipidis,Karipidis - Sangiovese (355),Red,2014
+13,Greece,,Viognier,14.1,Mercury,Coma Berenices (391),White,2017
+14,Greece,,Refosco,24.0,Mercury,"Domaine Mercouri ""Cava"" (394)",Red,2014
+13,Greece,,Cabernet Sauvignon,12.0,Symeonidis,Idypnoos Merlot (510),Red,2013
+14,Greece,,Syrah,16.3,Boutari,Scalarea (1107),Red,2013
+13,Greece,,Grenache Rouge,9.6,Symeonidis,Kokkino Fili (511),Red,2017
+13.5,Greece,,Cabernet Sauvignon,10.4,Boutari,Cava Boutari  (2502),Red,2010
+13,Greece,,Refosco,14.1,Mercury,Mercouri Estate - Red (395),Red,2017
+"13,5",Greece,,Nebbiolo,17.3,Karipidis,Karipidis - Nebbiolo (2512),Red,2012
+"12,5",Greece,,Sauvignon Blanc,14.6,Karipidis,Karipidis - Sauvignon Blanc Fume (2562),White,2018
+,Greece,,Syrah,43.6,Vrinioti Wines,Vriniotis Syrah Wild Fermentation (2716),Red,2015
+14,Greece,,Syrah,10.6,Boutari,Syrah Boutari (2617),Red,2016
+12.5,Greece,,Malagouzia,7.7,Markou,Malagouzia Markou (3092),White,2018
+,Greece,,Sauvignon Blanc,10.0,Lantides,ERGO Lantides White (3209),White,2018
+,Greece,,Moshofilero,10.6,Lantides,Little Arc - Rose (4046),,2017
+11.5,Greece,,Moshofilero,10.2,Palivos,La Vie en Rose (3255),,2008
+,Greece,,Agiorgitiko,7.4,Markou,Savatiano Markou (4263),,2018
+12,Greece,,Syrah,9.7,Sgouridis,Sgouridis - Rose  (2420),,2016
+13,Greece,,Pinot Noir,14.9,Dio Filoi,Dio Filoi - Pinot Noir (2274),Red,2016
+12.5,Greece,,Malagouzia,13.0,Ampelois,Ampelois - Malagouzia (2286),White,2018
+11.5,Greece,,Moshofilero,10.3,Boutari,Oropedio (3175),White,2017
+"13,5",Greece,,Cabernet Sauvignon,8.6,Karanika,Terra Levea Red (2856),Red,2015
+,Greece,,Agiorgitiko,8.7,Markou,Savatiano Markou (4264),Red,2016
+14,Greece,,Cabernet Sauvignon,17.4,Lantides,Cava Lantides (1746),Red,2005
+13,Greece,,Agiorgitiko,10.1,Lantides,Lantides Estate - Nemea (1744),Red,2005
+13,Greece,,Cabernet Sauvignon,9.5,Lantides,Ergo- Rose (1747),,2018
+12.5,Greece,,Sauvignon Blanc,11.3,Karipidis,Karipidis - Sauvignon Blanc (2015),White,2018
+13,Greece,,Agiorgitiko,7.5,Palivos,Anemos - Red (2231),Red,2003
+13.5,Greece,,Cabernet Sauvignon,14.8,Ampelois,Ampelois Silver (2184),Red,2014
+12.5,Greece,,Malagouzia,10.7,Symeonidis,Symeonidis - Malagouzia  (2073),White,2018
+14,Greece,,Merlot,14.7,Karipidis,Karipidis - Merlot (2017),Red,2014
+13.3,Greece,,Agiorgitiko,17.5,Akrathos,Philosopher (4080),Red,2015
+13.5,Greece,,Syrah,14.5,Karipidis,Karipidis - Syrah (2381),Red,2013
+14.5,Greece,,Pinot Noir,16.7,ALPHA,Alpha Estate - Pinot Noir (100),Red,2017
+13.5,Greece,,Krasato,9.6,Tsantalis,Rapsani (11),Red,2016
+14,Greece,,Syrah,13.4,ALPHA,Alpha Estate - Syrah Chelones (1997),Red,2016
+13,Greece,,Malagouzia,10.7,ALPHA,Alpha Estate - Malagouzia (2246),White,2018
+12.5,Greece,,Malagouzia,9.9,Anastasia Fragou,Neilys Malagouzia (2316),White,2018
+14.5,Greece,,Merlot,23.2,ALPHA,Alpha Estate - Red (1994),Red,2016
+12.8,Greece,,Cabernet Sauvignon,10.9,Claudia Papayianni,CP Red (2546),Red,2016
+,Greece,,Cabernet Sauvignon,6.0,Cavino,Nea Dris- Cabernet (4092),Red,
+11.5,Greece,,Moshofilero,7.2,Spiropoulos,Orino White (2448),White,2018
+13.5,Greece,,Cabernet Sauvignon,16.1,Chatzimichalis,Hatzimichalis Estate - Cabernet Sauvignon (47),Red,2011
+12,Greece,,Roditis,8.5,Gaia,Retinitis Nobilis (233),White,
+14,Greece,,Agiorgitiko,24.9,Gaia,Gaia Estate - Red (234),Red,2016
+13.8,Greece,,Agiorgitiko,21.7,Gaia,Anatolikos (239),Red,2006
+13.5,Greece,,Agiorgitiko,10.0,Gaia,Agiorgitiko Gaia (236),Red,2017
+13,Greece,,Agiorgitiko,11.4,Semeli,Semeli Nemea Reserve (494),Red,2015
+13.5,Greece,,Merlot,30.0,Chatzimichalis,"Hatzimichalis Estate - Merlot ""Vineyard Alargino"" (1548)",Red,2011
+12,Greece,,Chardonnay,10.5,Tsantalis,Kanenas - White (537),White,2018
+14,Greece,,Chardonnay,24.8,Chatzimichalis,"Estate Hadjimichali - Kapnias ""Vineyard Zygos"" (562)",White,2017
+14,Greece,,Cabernet Sauvignon,51.4,Tsantalis,Kormilitsa - Red (1756),Red,2014
+12.5,Greece,,Chardonnay,28.5,Tsantalis,Kormilitsa - White (1757),White,2017
+13,Greece,,Cabernet Franc,42.4,Chatzimichalis,Hatzimichalis Estate - Opus IB Cabernet Franc (2795),Red,2004
+14,Greece,,Aidani,36.1,Gaia,Vinsanto by Gaia  (2668),White,2006
+12,Greece,,Agiorgitiko,9.8,Gaia,Gaia 4-6h (3872),,2018
+,Greece,,Monemvasia,11.2,Moraitis,Paros  White (3995),White,2018
+13.5,Greece,,Syrah,13.6,Tsantalis,Kanenas - Red (541),Red,2016
+,Greece,,Aidani,11.8,Moraitis,Moraitis Rose (3997),,2018
+13,Greece,,Cabernet Sauvignon,10.2,Anastasia Fragou,Savatiano (4269),Red,2017
+13,Greece,,Merlot,10.2,Anastasia Fragou,Savatiano (4270),,2018
+14,Greece,,Cabernet Sauvignon,27.5,Chatzimichalis,"Estate Hadjimichali - Kapnias ""Vineyard Zygos"" (563)",Red,2011
+,Greece,,Monemvasia,29.8,Moraitis,Malvasia Paros (4313),White,2016
+,Greece,,Mantilaria,18.6,Moraitis,Paros Reserve (3998),Red,2015
+12,Greece,,Sauvignon Blanc,14.9,Lazaridis Costas,Amethystos - Sauvignon Blanc (35),White,2010
+12,Greece,,Sauvignon Blanc,11.8,Lazaridis Costas,Amethystos - White (36),White,2010
+13,Greece,,Cabernet Sauvignon,11.8,Lazaridis Costas,Amethystos - Rose (38),,2006
+14,Greece,,Syrah,18.0,Lazaridis Costas,Domaine Costa Lazaridi - Syrah (63),Red,2005
+13,Greece,,Cabernet Franc,24.6,Lazaridis Costas,Amethystos Cava (45),Red,2006
+12.5,Greece,,Sauvignon Blanc,11.5,Oinogenesis,Feggites - White (2132),White,2017
+13.5,Greece,,Cabernet Franc,15.0,Oinogenesis,Feggites - Red (2133),Red,2011
+14.5,Greece,,Syrah,37.2,Lazaridis Costas,Oenotria Ghi  - Syrah & Agiorgitiko (326),Red,2016
+14.5,Greece,,Refosco,18.4,Lazaridis Costas,Chateau Julia - Refosco Agiorgitiko (41),Red,2010
+13,Greece,,Cabernet Sauvignon,11.5,Oinogenesis,Feggites - Rose (2134),,2017
+12.5,Greece,,Sauvignon Blanc,17.2,Oinogenesis,Ten - White (2135),White,2012
+12,Greece,,Grenache Rouge,8.3,Oinogenesis,Scerzo - Rose (2261),,
+"12,5",Greece,,Viognier,12.1,Oinogenesis,Thyrsus - White (2815),White,2016
+13,Greece,,Merlot,13.5,Lazaridis Nico,To Mavro Provato - Red (2284),Red,2017
+13,Greece,,Roditis,7.3,Kir Yiannis,Paraga - White (2288),White,2018
+,Greece,,Mantilaria,13.6,Moraitis,Paros  Red (3996),Red,2016
+13.5,Greece,,Grenache Rouge,7.7,Avantis,Avantis Estate - Red (2417),Red,2012
+"13,5",Greece,,Liatiko,8.6,Douloufakis,Douloufakis - Dafnios Red (2579),Red,2016
+12.5,Greece,,Malagouzia,9.9,Zafeirakis,Palaiomylos Malagouzia (2869),White,2018
+,Greece,,Sauvignon Blanc,5.3,Douloufakis,Douloufakis - Enotria White (2998),White,2018
+10,Greece,,Aidani,44.6,Gavalas,Vinsanto Gavalas (2939),White,2008
+"14,5",Greece,,Merlot,11.8,Kir Yiannis,Kir-Yianni Estate (3107),Red,2016
+14.5,Greece,,Cabernet Sauvignon,15.7,Lazaridis Costas,Amethystos - Red (37),Red,2009
+12.5,Greece,,Sauvignon Blanc,11.3,Lazaridis Nico,Château Nico Lazaridi - White (58),White,2018
+13,Greece,,Grenache Rouge,12.5,Lazaridis Nico,Nico Lazaridi F - Merlot & Grenache Rouge (61),Red,2017
+14.5,Greece,,Cabernet Sauvignon,19.8,Lazaridis Costas,Oenotria Ghi - Cabernet Sauvignon & Agiorgitiko (44),Red,2016
+"12,5",Greece,,Malagouzia,9.9,Anastasia Fragou,Savatiano (4268),White,2018
+13,Greece,,Sauvignon Blanc,18.0,Lazaridis Nico,Magiko Vouno - White (111),White,2018
+12.5,Greece,,Chardonnay,9.1,Lazaridis Nico,Chrysos Leon - Chardonnay (1827),White,2017
+12.5,Greece,,Sauvignon Blanc,11.3,Lazaridis Nico,To Mavro Provato - White (2285),White,2018
+14,Greece,,Cabernet Sauvignon,12.5,Douloufakis,Douloufakis - Aspros Lagos Cabernet (2306),Red,2016
+13,Greece,,Cabernet Sauvignon,9.1,Lazaridis Nico,Chrysos Leon - Cabernet Sauvignon (1828),Red,2017
+"14,5",Greece,,Cabernet Sauvignon,74.4,Palivos,Noima (2693),Red,2006
+13.5,Greece,,Cabernet Sauvignon,17.3,Douloufakis,Douloufakis - Sangiovese (2308),Red,2014
+13.6,Greece,,Malagouzia,14.3,Lazaridis Costas,Domaine Costa Lazaridi - Malagouzia (4048),White,2005
+13,Greece,,Malagouzia,10.9,Theopetra,Theopetra Estate - White (2584),White,2018
+,Greece,,Cabernet Sauvignon,11.8,Barafakas Estate,Thousand Years Red (3170),Red,2013
+"14,5",Greece,,Merlot,34.7,Kir Yiannis,Kir-Yianni Estate (M3107),Red,1500
+13,Greece,,Chardonnay,22.3,Kir Yiannis,Palpo (3180),White,2017
+"14,5",Greece,,Cabernet Franc,26.7,Lazaridis Nico,Magiko Vouno - Red (2175),Red,2013
+14.5,Greece,,Merlot,39.7,Kir Yiannis,Mple Alepou (2465_2016),Red,2016
+,Greece,,Syrah,7.2,Zafeirakis,Μικρή Αρκούδα Ροζέ (4177),,
+13.5,Greece,,Krasato,15.4,Tsantalis,Epilegmenos Rapsani (534),Red,2014
+11.5,Greece,,Moshofilero,9.3,Tsantalis,Tsantali - Moschofilero (2393),White,2017
+,Greece,,Agiorgitiko,7.4,Barafakas Estate,Ampelou Idea Red (2918),Red,2017
+13,Greece,,Sauvignon Blanc,11.5,Techni Oinou,Techni Alypias - White (2365),White,2018
+13.5,Greece,,Agiorgitiko,8.9,Tsantalis,Tsantali MONO Agiorgitiko (2394),Red,2015
+,Greece,,Malagouzia,11.5,Techni Oinou,Plano Malagouzia (4044),White,2017
+,Greece,,Malagouzia,9.3,Mylonas,Mylonas - Malagouzia (4267),,2018
+12.5,Greece,,Agiorgitiko,8.7,Theodorakakos,Theodorakakos Estate - Rose (2088),,2018
+13.5,Greece,,Cabernet Sauvignon,21.7,Skouras,Megas Oenos Skoura (13),Red,2015
+13.5,Greece,,Pinot Noir,27.3,Katogi,Rossiu di Munte Pinot Noir (304),Red,2013
+13.5,Greece,,Agiorgitiko,9.7,Skouras,Skouras - Agiorgitiko  (15),Red,2016
+14.5,Greece,,Grenache Rouge,19.1,Manoussakis,Nostos Grenache (387),Red,2016
+14,Greece,,Cabernet Franc,23.6,Skouras,Synoro Skoura (14),Red,2014
+13.5,Greece,,Chardonnay,12.4,Arvanitidis,Arvanitidi - Chardonnay  (2001),White,2018
+12.6,Greece,,Aidani,24.8,Argyros,Estate Argyros - Aidani (2007),White,2018
+13,Greece,,Cabernet Sauvignon,93.0,Skouras,Lavirinthos (1832),Red,
+12,Greece,,Sauvignon Blanc,14.3,Lazaridis Nico,Cavalieri - White (3089),White,2017
+14.5,Greece,,Cabernet Franc,18.6,Lazaridis Nico,Cavalieri - Red (3088),Red,2014
+14,Greece,,Syrah,12.3,Avantis,Avantis Estate - Syrah (108),Red,2001
+13,Greece,,Sauvignon Blanc,10.5,Avantis,Avantis Estate - Sauvignon Blanc (104),White,2012
+13,Greece,,Sauvignon Blanc,10.9,Kir Yiannis,Samaropetra (400),White,2018
+14,Greece,,Syrah,55.8,Avantis,Avantis Estate - Syrah Collection (130),Red,2011
+13.5,Greece,,Cabernet Sauvignon,12.1,Tsantalis,Metoxi Chromitsa - Red (539),Red,2016
+13,Greece,,Grenache Rouge,11.5,Lazaridis Nico,Nico Lazaridi - Rose (1821),,2018
+14.5,Greece,,Merlot,15.5,Kir Yiannis,Dio Elies (323),Red,2016
+13,Greece,,Cabernet Sauvignon,27.9,Lazaridis Nico,Perpetuus - Red (1824),Red,2011
+13.5,Greece,,Cabernet Sauvignon,14.0,Lazaridis Nico,Chateau Nico Lazaridi - Red (1823),Red,2016
+14,Greece,,Aidani,18.5,SantoWines,Santorini Nichteri (1321),White,2017
+13,Greece,,Kotsifali,5.6,Lyrarakis,Lyrarakis - Kotsifali (2200),Red,2010
+14,Greece,,Merlot,9.3,Skouras,Skouras - Portes Merlot (2401),Red,2017
+12.5,Greece,,Vilana,5.6,Lyrarakis,Lyrarakis - Vilana (2197),White,2010
+15,Greece,,Syrah,21.7,Pavlidis,Emphasis - Syrah (2435),Red,2014
+13.5,Greece,,Cabernet Sauvignon,24.8,Katogi,Rossiu di Munte - Giniets (2410),Red,2013
+11.5,Greece,,Moshofilero,11.8,Skouras,Salto Wild Yeast (2561),White,2017
+13,Greece,,Sauvignon Blanc,13.2,Pavlidis,THEMA - White (92),White,2018
+13.5,Greece,,Agiorgitiko,18.8,Skouras,Grande Cuvee Nemea (115),Red,2014
+14,Greece,,Agiorgitiko,22.3,Aivalis,Monopati (134),Red,2016
+13.5,Greece,,Grenache,20.2,Manoussakis,Manousakis Nostos - Blend (384),Red,2015
+13,Greece,,Cabernet Sauvignon,6.9,Στροφιλιά,Strofilia Rose (1372),,2018
+13,Greece,,Cabernet Sauvignon,8.4,Katogi,Katogi Averof - Red (64),Red,2016
+13.5,Greece,,Cabernet Franc,15.7,Katogi,Estate Averof - Red (301),Red,2011
+14,Greece,,Agiorgitiko,10.4,Papaioannou,Estate Papaioannou Nemea - Red (446),Red,2014
+14,Greece,,Cabernet Sauvignon,43.0,Tsantalis,Agiorgitiko Abaton Gold (533),Red,2013
+11.5,Greece,,Pinot Noir,12.7,Papaioannou,Papaioannou - Pinot Noir (454),Red,2017
+12.5,Greece,,Aidani,13.0,Argyros,Atlantis - White (2008),White,2011
+12.5,Greece,,Aidani,28.5,Chatzidakis,Hatzidakis - Aidani (554),White,2017
+14,Greece,,Syrah,16.1,Pavlidis,THEMA - Red (462),Red,2015
+12.5,Greece,,Mantilaria,15.1,Lyrarakis,"Lyrarakis - Mandilari ""Plakoures"" (2196)",Red,2012
+13,Greece,,Aidani,25.9,Chatzidakis,Hatzidakis - Vinsanto  (556),White,2004
+13,Greece,,Syrah,9.5,Lyrarakis,Lyrarakis - Red (2204),Red,2011
+13,Greece,,Mantilaria,13.0,Argyros,Atlantis - Rose (2009),,2018
+14,Greece,,Cabernet Sauvignon,14.4,Pieria Eratini,Efhes ... Eratines - Red (2262),Red,2016
+13,Greece,,Tempranillo,12.0,Pavlidis,THEMA - Rose (465),,2018
+14,Greece,,Cabernet Sauvignon,119.2,Tsantalis,Kormilitsa - Gold (2873),Red,2013
+14,Greece,,Chardonnay,16.1,Pavlidis,Emphasis - Chardonnay (2433),White,2017
+,Greece,,Roditis,5.8,Kechris,Kechribari Retsina (3224),White,
+,Greece,,Krasato,24.9,Tsantalis,Rapsani Grand Reserve (3183),Red,2011
+13,Greece,,Malagouzia,16.3,Pieria Eratini,Efhes ... Eratines - Sweet (2880),White,2013
+13.5,Greece,,Sauvignon Blanc,12.5,Vivlia Chora,Biblia Chora Estate - White (49),White,2018
+,Greece,,Syrah,29.3,Aivalis,Deux Dieux (3970),Red,2016
+14,Greece,,Cabernet Sauvignon,27.5,Vivlia Chora,Ovilos - Red (209),Red,2013
+12.5,Greece,,Malagouzia,12.5,Γεροβασιλείου (Κτήμα),Gerovassiliou - White (1768),White,2018
+9,Greece,,Mantilaria,36.7,Sigalas,Apiliotis Mezzo (480),Red,2011
+14,Greece,,Agiorgitiko,74.6,Aivalis,"Four ""4"" (2445_2010)",Red,2014
+12,Greece,,Malagouzia,10.5,Papagiannakos,Kalogeri Malagouzia (2871),White,2017
+"13,9",Greece,,Aidani,25.4,SantoWines,Santorini Nichteri Reserve (1322),White,2016
+13.5,Greece,,Merlot,16.3,Γεροβασιλείου (Κτήμα),Gerovassiliou - Red (55),Red,2016
+13.5,Greece,,Chardonnay,18.8,Γεροβασιλείου (Κτήμα),Gerovassiliou - Chardonnay (242),White,2017
+14,Greece,,Syrah,31.2,Γεροβασιλείου (Κτήμα),Gerovassiliou - Evangelo (244),Red,2015
+14,Greece,,Syrah,19.4,Γεροβασιλείου (Κτήμα),Gerovassiliou - Syrah (245),Red,2015
+12.5,Greece,,Cabernet Sauvignon,17.0,Tsiolis,Ftelia (2233),Red,2007
+14,Greece,,Cabernet Sauvignon,34.9,Kokalis,Trilogia (363),Red,2014
+15,Greece,,Moshato Samou,8.8,Samos,Samos Anthemis 0.5lt (2557),White,2011
+12,Greece,,Malagouzia,10.5,Papagiannakos,Kalogeri Malagouzia (2871_2017),White,2017
+14,Greece,,Syrah,19.2,Silva-Daskalaki,Instinct Red (2891),Red,2011
+15,Greece,,Moshato Samou,7.8,Samos,Samos Grand Cru 0.5lt (2494),White,2016
+13.5,Greece,,Cabernet Franc,43.8,Porto Carras,Chateau Porto Carras Magnum (M472),Red,1500
+15,Greece,,Merlot,19.4,Vivlia Chora,Plagios - Red (2501),Red,2012
+"13,5",Greece,,Cabernet Sauvignon,11.9,Silva-Daskalaki,Psithiros Red (2893),Red,2014
+12.5,Greece,,Agiorgitiko,8.9,Parparousis,Oinari (440),Red,2015
+13,Greece,,Agiorgitiko,22.5,Parparousis,Nemea Epilegmenos (443),Red,2013
+12.5,Greece,,Syrah,12.0,Tsantalis,Kanenas - Rose (543),,2017
+13,Greece,,Malagouzia,24.8,Γεροβασιλείου (Κτήμα),Gerovassiliou - Malagouzia Late Harvest (246),White,2015
+"13,5",Greece,,Aidani,55.8,Argyros,Vinsanto 12 years Barrel Aged (2630),White,2016
+13.5,Greece,,Aidani,31.0,Argyros,Estate Argyros - Vinsanto 4 years (2620),White,2011
+12,Greece,,Agiorgitiko,8.3,Spiropoulos,Meliasto (18),,2017
+12,Greece,,Moshofilero,7.4,Spiropoulos,Frouri - Mantinea (501),White,2016
+11.5,Greece,,Moshofilero,10.1,Spiropoulos,Ode Panos (505),White,2016
+"12,5",Greece,,Chardonnay,8.7,Vogiatzis,Vogiatzis - White (2669),White,2017
+14,Greece,,Cabernet Sauvignon,22.1,Katsaros,Domaine Katsaros - Red (296),Red,2013
+13.5,Greece,,Agiorgitiko,8.2,Spiropoulos,Frouri Nemea (3051),Red,2014
+13.5,Greece,,Cabernet Sauvignon,16.3,Vivlia Chora,Biblia Chora Estate - Red (48),Red,2017
+13.5,Greece,,Merlot,12.6,Lantides,AENAON Merlot (1784),Red,2016
+"13,5",Greece,,Cabernet Sauvignon,10.4,Vogiatzis,Vogiatzis Estate - Red (2879),Red,2016
+15,Greece,,Liatiko,26.2,Boutari,Iouliatiko (2216),Red,2006
+13,Greece,,Refosco,18.5,Mercury,Refosco Klonos Mercury (2222),Red,2016
+,Greece,,Agiorgitiko,8.9,Palivos,Bee (2694),,
+14,Greece,,Chardonnay,27.5,Antonopoulos,ANAX (154_2015),White,2015
+13.5,Greece,,Syrah,18.0,Gentilini Kosmetatos,Gentilini Syrah (227),Red,2017
+13,Greece,,Chardonnay,11.7,Ampelois,Folia (2185),White,2017
+13.2,Greece,,Robola,21.7,Gentilini Kosmetatos,Gentilini Robola Kefalonia Wild Paths (3810),White,2018
+11,Greece,,Moshofilero,8.2,Boutari,Boutari - Moschofilero (10),White,2018
+13,Greece,,Sauvignon Blanc,10.9,Gentilini Kosmetatos,Notes White (80),White,2011
+13,Greece,,Robola,15.1,Gentilini Kosmetatos,Gentilini Robola Kefalonia (224),White,2018
+12.5,Greece,,Chardonnay,15.7,Karipidis,Karipidis - Chardonnay (354),White,2018
+13,Greece,,Chardonnay,10.1,Lantides,Chardonnay Lantides (1748),White,2018
+13,Greece,,Krasato,17.1,Thymiopoulos,Ghi ke Ouranos (4228),Red,2016
+13,Greece,,Grenache Rouge,13.6,Semeli,Delear (4291),,2018
+12,Greece,,Moshofilero,9.9,Tselepos,Tselepos - Mantinea  (2028),White,2018
+12,Greece,,Syrah,20.1,Porto Carras,Porto Carras - Syrah (2257),Red,2007
+,Greece,,Agiorgitiko,16.3,Tselepos,Amalia Rose (3145),,
+13.5,Greece,,Viognier,22.0,Γεροβασιλείου (Κτήμα),Gerovassiliou - Viognier (241_2017),White,2017
+15,Greece,,Merlot,11.8,Mylopotamos,Mylopotamos - Nama (2482),Red,2009
+12.5,Greece,,Gewurztraminer,17.6,Tselepos,Melissopetra (84),White,2018
+14,Greece,,Agiorgitiko,17.6,Dryopi,Dryope Estate - Reserve (52),Red,2015
+14,Greece,,Merlot,28.5,Tselepos,Kokkinomylos (547),Red,2017
+13,Greece,,Agiorgitiko,9.9,Dryopi,Dryope Estate - Rose (261),,2017
+13,Greece,,Chardonnay,9.1,Sgouridis,Sgouridi Sigma - White (2110),White,2016
+13.5,Greece,,Syrah,10.3,Sgouridis,Sgouridi Sigma - Red (2245),Red,2015
+14,Greece,,Chardonnay,17.6,Tselepos,Marmarias (85),White,2017
+11.5,Greece,,Roditis,2.7,Kechris,Kechribari Retsina (Decanter) (3785),White,
+"12,5",Greece,,Malagouzia,9.2,Mylonas,Mylonas - Malagouzia (2671),White,2018
+13.5,Greece,,Syrah,11.1,Douloufakis,Douloufakis - Syrah (2282),Red,2014
+12,Greece,,Moshato Samou,8.1,Samos,Psiles Korfes (514),White,2017
+13.5,Greece,,Agiorgitiko,31.0,Papaioannou,Estate Papaioannou - Microclimate (457),Red,2006
+14,Greece,,Cabernet Sauvignon,20.4,Kikones,Kikones Ippeas (2673),Red,2016
+13.5,Greece,,Syrah,26.9,Kikones,Kikones Syrah (2674),Red,2015
+14,Greece,,Limnio,26.5,Kikones,Kikones Limnio (2672),Red,2016
+9,Greece,,Aidani,46.5,Sigalas,Sigalas - Vinsanto (481),White,2013
+,Greece,,Gewurztraminer,17.4,Semeli,Semeli Gewurztraminer (497),White,2018
+13.7,Greece,,Mantilaria,15.0,Sigalas,Sigalas - Mavrotragano Mandilaria (2541),Red,2017
+13,Greece,,Aidani,30.5,Sigalas,Sigalas - Aidani (2612),White,2014
+,Greece,,Agiorgitiko,28.7,Aivalis,Le Sang de la Pierre  (3802),Red,2017
+13.5,Greece,,Viognier,19.4,Γεροβασιλείου (Κτήμα),Gerovassiliou - Viognier (241),White,2018
+13,Greece,,Limnio,21.9,Γεροβασιλείου (Κτήμα),Gerovassiliou - Avaton (56),Red,2016
+,Greece,,Monemvasia,12.4,Sigalas,Sigalas - Assyrtiko Monemvasia (4129),White,2018
+14,Greece,,Gewurztraminer,17.7,ALPHA,Alpha Estate - Omega (102),White,2016
+13,Greece,,Chardonnay,17.0,ALPHA,Alpha Estate - Chardonnay (1851),White,2017
+13,Greece,,Syrah,12.0,Vivlia Chora,Biblia Chora Estate - Rose (2013),,2018
+14.5,Greece,,Merlot,28.9,ALPHA,Alpha Estate - Red (Old Vinatage) (1994_2013),Red,2013
+"13,4",Greece,,Merlot,15.1,Claudia Papayianni, Domaine Claudia Papayianni Red (2542),Red,2016
+8,Greece,,Syrah,11.2,Cavino,Deus - Rosato semi-sparkling Gift Pack (2580),,
+12.5,Greece,,Agiorgitiko,6.8,Theodorakakos,Perivleptos Red (2083),Red,2013
+14.5,Greece,,Merlot,27.7,ALPHA,Alpha Estate - Red (Old Vinatage) (1994_2012),Red,2012
+14.5,Greece,,Merlot,39.8,ALPHA,Alpha Estate - Red (Old Vinatage) (1994_2009),Red,2009
+14.5,Greece,,Syrah,55.2,ALPHA,Alpha Estate - ONE (101_2011),Red,2013
+13,Greece,,Sauvignon Blanc,17.0,ALPHA,Alpha Estate - Sauvignon Blanc Fume (3210),White,2018
+14.5,Greece,,Merlot,61.5,ALPHA,Alpha Estate - Red (Old Vinatage) (1994_2005),Red,2005
+15,Greece,,Merlot,17.5,Lazaridis Costas,Chateau Julia - Merlot (42),Red,2011
+,Greece,,Monemvasia,29.8,Moraitis,Malvasia Paros (3999),White,2011
+13,Greece,,Gewurztraminer,11.8,Avantis,Avantis Estate - Lenga (106),White,2012
+8,Greece,,Syrah,11.2,Cavino,Deus - Rosato semi-sparkling (2580_bottle),,
+14.5,Greece,,Merlot,67.5,ALPHA,Alpha Estate - Red (Old Vinatage) (1994_2004),Red,2004
+13,Greece,,Grenache Rouge,7.1,Avantis,Avantis Estate - Rose (107),,2012
+14,Greece,,Syrah,24.8,Avantis,Avantis Estate - Agios Chronos (109),Red,2012
+13,Greece,,Merlot,8.6,Kir Yiannis,Paraga - Red (95),Red,2017
+14.5,Greece,,Syrah,34.7,Kir Yiannis,Diaporos (319),Red,2016
+13.5,Greece,,Chardonnay,13.6,Kir Yiannis,Tesseris Limnes (316),White,2018
+,Greece,,Malagouzia,7.3,Barafakas Estate,Ampelou Idea White (2920),White,2017
+,Greece,,Moshofilero,9.2,Troupis Estate,Tomi Mantineia (2982),White,2017
+14.5,Greece,,Merlot,91.8,Kir Yiannis,Mple Alepou Magnum (M2465_2012),Red,1500
+,Greece,,Chardonnay,10.7,Barafakas Estate,Thousand Years White (3171),White,2015
+,Greece,,Gewurztraminer,29.8,Kir Yiannis,Chrysogerakas (3273),White,2013
+,Greece,,Chardonnay,17.2,Zafeirakis,Propodes (3915),White,2016
+,Greece,,Agiorgitiko,13.3,Barafakas Estate,Apocalypsis Barafakas (3914),Red,2013
+12.5,Greece,,Viognier,7.1,Avantis,Avantis Estate - White (2416),White,2012
+14,Greece,,Chardonnay,15.0,Techni Oinou,Idisma Drios - Chardonnay (2038),White,2016
+13,Greece,,Gewurztraminer,11.8,Avantis,Avantis Estate - Lenga (4198),,2012
+13,Greece,,Mantilaria,5.6,Lyrarakis,Lyrarakis - Mandilari Rose (2201),,2017
+13,Greece,,Cabernet Sauvignon,25.1,Lyrarakis,Lyrarakis - Cabernet & Merlot (2205),Red,2012
+14,Greece,,Syrah,15.0,Techni Oinou,Idisma Drios - Syrah (2208),Red,2011
+14,Greece,,Tempranillo,20.5,Pavlidis,Emphasis - Tempranillo (2434),Red,2015
+12,Greece,,Moshofilero,9.3,Skouras,Moschofilero Skoura (1829),White,2018
+15,Greece,,Syrah,45.3,Pavlidis,Emphasis - Syrah Magnum (M2435),Red,1500
+14.5,Greece,,Syrah,18.0,Skouras,Fleva (2290),Red,2017
+13.5,Greece,,Viognier,13.1,Skouras,Viognier Cuvee Larsinos (113),White,2017
+14,Greece,,Agiorgitiko,13.2,Aivalis,Nemea Aivali (133),Red,2017
+13,Greece,,Syrah,7.5,Στροφιλιά,Strofilia Red (312),Red,2017
+14.5,Greece,,Syrah,20.2,Manoussakis,Nostos Syrah (386),Red,2015
+14,Greece,,Grenache Rouge,15.2,Manoussakis,Nostos Alexandra's (385),Red,2015
+13.5,Greece,,Agiorgitiko,17.3,Papaioannou,Estate Papaioannou - Old vines (456),Red,2010
+13.5,Greece,,Merlot,16.3,Katogi,Flogero (302),Red,2010
+,Greece,,Chardonnay,11.8,Skouras,Armyra Skoura (3136),White,2017
+12.8,Greece,,Mantilaria,13.0,Argyros,Atlantis - Red (2010),Red,2017
+14,Greece,,Mantilaria,36.8,Chatzidakis,Hatzidakis - Mavrotragano (1837),Red,2016
+13,Greece,,Chardonnay,12.0,Pieria Eratini,Efhes... Eratines - White (2043),White,2018
+12.5,Greece,,Dafni,9.9,Lyrarakis,"Lyrarakis - Daphne ""Psarades"" (2194)",White,2009
+13,Greece,,Syrah,18.8,Katogi,Rossiu di Munte - Syrah & Traminer (2486),Red,2009
+14.5,Greece,,Syrah,38.4,Skouras,Fleva Magnum (M2290),Red,1500
+,Greece,,Chardonnay,26.0,Skouras,Armyra Skoura Magnum (M3136),White,2017
+13.5,Greece,,Syrah,12.0,Theopetra,Theopetra Estate - Rose (2586),,2018
+14,Greece,,Syrah,62.0,Γεροβασιλείου (Κτήμα),Gerovassiliou - Evangelo (M244),Red,1500
+"14,5",Greece,,Sauvignon Blanc,17.6,Γεροβασιλείου (Κτήμα),Gerovassiliou - Sauvignon Blanc Fume (240),White,2018
+12,Greece,,Agiorgitiko,6.7,Papaioannou,Vineyard Papaioannou - Rose Agiorgitiko (452),,2018
+13,Greece,,Malagouzia,19.2,Papagiannakos,Melias (3169),White,2015
+,Greece,,Cabernet Sauvignon,8.6,Papagiannakos,Παπαγιαννάκος - Αγιωργίτικο - Cabernet (3204),Red,2016
+14,Greece,,Cabernet Sauvignon,13.6,Kokalis,Mova (2867),Red,2015
+,Greece,,Chardonnay,14.6,Silva-Daskalaki,Instinct White (2894),White,2017
+12,Greece,,Moshofilero,16.3,Tselepos,Amalia Brut (549),White,
+13,Greece,,Cabernet Sauvignon,15.1,Tselepos,Domaine Tselepos - Dilofos (2466),Red,2015
+13.5,Greece,,Moshofilero,12.0,Tselepos,Tselepos - Blanc de Gris  (2896),White,2018
+14,Greece,,Cabernet Sauvignon,23.8,Tselepos,Avlotopi (548),Red,2015
+13,Greece,,Agiorgitiko,10.7,Dryopi,Dryope Estate - Nemea (262),Red,2016
+,Greece,,Moshofilero,13.0,Semeli,Thea Mantinia (3780),White,2017
+,Greece,,Cabernet Sauvignon,22.4,Papargyriou (Estate),Le Roi des Montagnes Cuvee (3781),Red,2016
+12.5,Greece,,Malagouzia,13.6,Γεροβασιλείου (Κτήμα),Gerovassiliou - Malagouzia (2283),White,2018
+,Greece,,Nebbiolo,18.2,Papargyriou (Estate),Don Giovanni (3822),Red,2016
+13,Greece,,Merlot,13.8,Zacharias,Mavros eis ton kivo (1763),Red,2016
+13.5,Greece,,Merlot,10.1,Anastasia Fragou,Alypius Oenos (2317),Red,2014
+14.5,Greece,,Cabernet Franc,56.0,Kyros Melas,La Tour Melas (2552_2012),Red,2015
+13.5,Greece,,Chardonnay,17.4,Katsaros,Domaine Katsaros - Chardonnay (295),White,2017
+13.5,Greece,,Aidani,80.6,Argyros,Vinsanto 20 years Barrel Aged 1990 vintage  (175),White,1989
+,Greece,,Athiri,15.3,Tsantalis,Agiorgitiko Abaton Gold (4146),White,
+13.5,Greece,,Gewurztraminer,9.3,Vivlia Chora,Biblia Chora Estate - Naturally Sweet 375ml (2014),White,
+14,Greece,,Cabernet Sauvignon,21.3,Karydas,Estate Karydas Collectible (2041),Red,2014
+13,Greece,,Traminer,24.8,Vivlia Chora,Biblia Chora Estate - Naturally Sweet 375ml (4148),White,2016
+13,Greece,,Syrah,15.7,Spiropoulos,Spyropoulos Estate - Syrah (506),Red,2007
+13,Greece,,Syrah,6.3,Spiropoulos,Orino Red (2449),Red,2017
+15,Greece,,Moshato Samou,6.6,Samos,Samos Vin Doux (516),White,2017
+15,Greece,,Syrah,31.2,Pieria Eratini,Gimnos Vasilias (2042),Red,2016
+,Greece,,Roditis,9.2,Τetramythos,Tetramythos White (3164),White,2018
+12,Greece,,Chardonnay,17.6,Vivlia Chora,Plagios - White (2477),White,2017
+14,Greece,,Sauvignon Blanc,11.7,Papaioannou,Vineyard Papaioannou - Aristocracy (447),White,2017

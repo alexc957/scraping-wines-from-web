@@ -1,0 +1,181 @@
+alcohol_percent,country,discount_price,grape_variety,price,producer,product_name,wine_color,year
+13,NEW ZEALAND,7.99,Sauvignon Blanc,9.99,,Devil's Creek Marlborough Sauvignon Blanc 2017/2018,White,2018
+13.5,SPAIN,11.99,Smooth Red,13.99,,Definition Rioja Reserva 2013,Red,2013
+13,NEW ZEALAND,8.99,Sauvignon Blanc,9.99,,Dawn Star Marlborough Sauvignon Blanc,White,
+13,NEW ZEALAND,7.99,Sauvignon Blanc,10.99,,The Ned Waihopai River Sauvignon Blanc 2018 Marlborough,White,2018
+12.5,NEW ZEALAND,6.99,Sauvignon Blanc,8.99,,Castaway Island Marlborough Sauvignon Blanc 2018,White,2018
+14.5,FRANCE,7.99,"Merlot, Cabernet Franc, Cabernet Sauvignon",11.99,,Château Recougne 2016 Bordeaux Supérieur,Red,2016
+13.5,PORTUGAL,7.99,Smooth Red,8.99,,Porta 6 2017 Lisboa,Red,2017
+13,FRANCE,14.99,Rose,19.99,,Miraval Rosé 2018 Côtes de Provence,Rose,2018
+14,SPAIN,15.99,Smooth Red,17.99,,Rioja Reserva 2014 Beronia,Red,2014
+14,NEW ZEALAND,8.99,Crisp White,10.99,,The Ned Pinot Grigio 2018 Marlborough,White,2018
+13,FRANCE,10.99,"Merlot, Cabernet Franc",12.99,,Vieux Remparts 2016 Lussac St-Emilion,Red,2016
+13,SPAIN,8.99,Crisp White,10.99,,Caixas Albariño 2017/18 Rías Baixas,White,2017
+13,CHILE,5.99,"Syrah, Merlot",8.99,,Santa Rita 120 Merlot 2017 Central Valley,Red,2017
+13.5,SPAIN,23.99,Smooth Red,26.99,,Rioja Reserva Viña Ardanza 2009 La Rioja Alta,Red,2009
+12.5,NEW ZEALAND,8.99,Sauvignon Blanc,10.99,,Russian Jack Sauvignon Blanc 2017 Marlborough,White,2017
+13.5,CHILE,5.99,"Sémillon, Sauvignon Blanc",8.99,,Santa Rita 120 Sauvignon Blanc 2017 Central Valley,White,2017
+12.5,FRANCE,7.99,Pinot Noir,8.99,,Olivier Dubois Cuvee Prestige Pinot Noir 2017 VdF,Red,2017
+13,FRANCE,12.99,Chardonnay,16.99,,Chablis Elodie Duprés 2016,White,2016
+13,FRANCE,14.99,Sauvignon Blanc,16.99,,Sancerre 'Clos des Bouffants' 2018 Domaine Roger Neveu,White,2018
+13.5,SPAIN,7.99,Smooth Red,9.99,,Rioja Reserva 2013 Viña Alarde,Red,2013
+13,NEW ZEALAND,7.99,Sauvignon Blanc,9.99,,Parcel Series Marlborough Sauvignon Blanc 2018,White,2018
+14,CHILE,7.99,Big Red,11.99,,Santa Rita Medalla Real Carmenère 2017 Colchagua Valley,Red,2017
+9.5,PORTUGAL,7.99,Crisp White,8.99,,Porta 6 Vinho Verde 2018,White,2018
+13.5,FRANCE,9.99,Chardonnay,13.99,,Grand Ardèche Chardonnay 2016 Louis Latour,White,2016
+13.5,ARGENTINA,6.99,Malbec,9.99,,"Parcel Series Malbec 2018, Mendoza",Red,2018
+13.5,CHILE,7.99,Rich White,11.99,,Santa Rita Medalla Real Chardonnay 2018 Limari Valley,White,2018
+14,CHILE,8.99,Pinot Noir,13.99,,Parcel Series Chilean Pinot Noir,Red,
+13.5,FRANCE,11.99,Chardonnay,13.99,,Montagny 1er Cru 'Les Millières' 2018 Cave des Vignerons de Buxy,White,2018
+12.5,FRANCE,7.49,Rose,8.99,,La Belle Angele Rose 2018 VdF,Rose,2018
+13,NEW ZEALAND,8.99,Sauvignon Blanc,10.99,,Definition Marlborough Sauvignon Blanc 2018,White,2018
+12.5,PORTUGAL,7.99,Rose,8.99,,Porta 6 Rosé 2018,Rose,2018
+13,ARGENTINA,6.99,Malbec,8.99,,Las Maletas Malbec 2018 Mendoza,Red,2018
+14.5,AUSTRALIA,9.99,Shiraz,13.99,,Kangarilla Road Shiraz 2018 McLaren Vale,Red,2018
+14,ITALY,9.99,Big Red,11.99,,Passimento 2016 Pasqua,Red,2016
+14,AUSTRALIA,10.99,Cabernet Sauvignon,13.99,,Jim Barry Cover Drive Cabernet Sauvignon 2015 Coonawarra,Red,2015
+14,FRANCE,11.99,Smooth Red,13.99,,Côtes du Rhône 2015 E. Guigal,Red,2015
+13,ARGENTINA,7.99,Malbec,9.99,,Beefsteak Club Malbec 2017 Mendoza,Red,2017
+14.5,USA,12.99,Big Red,14.99,,Ravenswood Lodi Zinfandel 2014,Red,2014
+13.5,FRANCE,9.99,Rich White,11.99,,Definition Chardonnay 2018,White,2018
+14,ITALY,9.99,Big Red,11.99,,Surani Costarossa 2018 Primitivo di Manduria,Red,2018
+13,NEW ZEALAND,10.99,Sauvignon Blanc,12.99,,"Blind River Sauvignon Blanc 2018 Awatere Valley, Marlborough",White,2018
+13.5,FRANCE,10.99,Pinot Noir,13.99,,Pinot Noir Domaine de Valmoissine 2016 Louis Latour,Red,2016
+14.5,ARGENTINA,9.99,Malbec,12.99,,Viñalba Malbec-Touriga Nacional Reserve 2017 Mendoza,Red,2017
+13,SPAIN,11.99,Crisp White,13.49,,Albariño Martín Códax 2017/18 Rías Baixas,White,2017
+12.5,CHILE,4.99,Merlot,7.99,,Valle Antigua Merlot 2017,Red,2017
+13,PORTUGAL,7.99,Crisp White,9.99,,Planalto White Reserva 2017 Douro,White,2017
+12.5,FRANCE,8.99,Rose,9.99,,Vallée Des Pins Rosé 2018 Côteaux d'Aix en Provence,Rose,2018
+12,CHILE,5.99,Sauvignon Blanc,6.99,,Majestic Loves Sauvignon 2018,White,2018
+14.1,AUSTRALIA,18.99,Shiraz,21.99,,"Gnarly Dudes Shiraz 2016 Two Hands, Barossa Valley",Red,2016
+14.5,ARGENTINA,9.99,Malbec,12.99,,Viñalba Reserve Malbec 2017 Mendoza,Red,2017
+13.5,ARGENTINA,11.99,Malbec,13.99,,Catena Malbec 2017 Mendoza,Red,2017
+12.5,FRANCE,6.99,Carignan,7.99,,Alain Grignon Carignan Vieilles Vignes 2017 PGI Pays de l'Hérault,Red,2017
+13,NEW ZEALAND,11.99,Sauvignon Blanc,14.99,,The King's Favour Sauvignon Blanc 2017 Marlborough,White,2017
+14.5,FRANCE,14.99,Big Red,16.99,,Lirac Vignobles Abeille 2016 Mont Redon,Red,2016
+14,AUSTRALIA,9.99,Cabernet Sauvignon,15.99,,Parcel Series Coonawarra Cabernet Sauvignon,Red,
+14,CHILE,7.99,Cabernet Sauvignon,11.99,,Santa Rita Medalla Real Cabernet Sauvignon 2016 Maipo Valley,Red,2016
+13,FRANCE,7.99,Rose,8.99,,Haut Vol Rosé 2018 VdF,Rose,2018
+12,USA,8.99,Riesling,10.99,,Parcel Series Riesling 2017,White,2017
+14,ITALY,14.99,Big Red,16.99,,Valpolicella Superiore Ripasso 2016 La Casetta,Red,2016
+13,NEW ZEALAND,22.99,Sauvignon Blanc,25.99,,Cloudy Bay Sauvignon Blanc 2018 Marlborough,White,2018
+13.5,CHILE,5.99,Big Red,8.99,,Santa Rita 120 Carménère 2018 Central Valley,Red,2018
+12,CHILE,5.84,Sauvignon Blanc,6.49,,Silver Ghost Sauvignon Blanc 2017 Central Valley,White,2017
+13,FRANCE,11.99,Chardonnay,13.99,,Mâcon-Lugny 2017 Louis Latour,White,2017
+13,FRANCE,17.99,Rose,22.99,,Whispering Angel Rosé 2018,Rose,2018
+13.5,USA,13.99,Rich White,15.99,,Bread & Butter Chardonnay 2017,White,2017
+13,FRANCE,7.99,Rose,9.99,,Jas de Vignes IGP Mediterranee Rosé 2018,Rose,2018
+13,NEW ZEALAND,8.99,Sauvignon Blanc,10.99,,Villa Maria Private Bin Sauvignon Blanc 2018 Marlborough,White,2018
+12,CHILE,5.84,Cabernet Sauvignon,6.49,,Silver Ghost Cabernet Sauvignon 2016 Central Valley,Red,2016
+12.5,NEW ZEALAND,8.49,Fruity White,9.49,,Mud House Sauvignon Blanc 2018 Marlborough,White,2018
+12.5,FRANCE,11.99,Rose,13.99,,"Peyrassol, Reserve des Templiers Rosé 2018 Côtes de Provence",Rose,2018
+13,FRANCE,25.99,Rose,28.99,,AIX Rosé 2018 Coteaux d'Aix en Provence Magnum,Rose,2018
+14.5,CHILE,14.99,"Grenache, Syrah, Mourvèdre",16.99,,LFE 900 Single-Vineyard 2013 Colchagua Valley,Red,2013
+13.5,CHILE,7.99,Big Red,9.99,,Luis Felipe Edwards Gran Reserva Merlot 2017 Colchagua Valley,Red,2017
+13.5,CHILE,6.99,Fruity White,7.99,,Luis Felipe Edwards Signature Series Viognier Reserva 2017/18 Rapel Valley,White,2017
+13,CHILE,6.99,Sauvignon Blanc,7.99,,Lady Sauvignon 2018 Casablanca Valley,White,2018
+13.5,CHILE,6.99,Big Red,7.99,,Lastarria Malbec 2018,Red,2018
+14.5,SPAIN,7.99,Tempranillo,9.99,,Finca Carelio Tempranillo 2015 Vino de la Tierra,Red,2015
+12.5,FRANCE,7.99,Fruity White,9.99,,Villemarin Picpoul de Pinet 2018 Côteaux du Languedoc,White,2018
+13.5,FRANCE,9.99,Rose,11.99,,Domaine La Chautarde Rosé 2018 Côteaux Varois en Provence,Rose,2018
+12.5,NEW ZEALAND,6.99,Sauvignon Blanc,10.49,,Oyster Bay Sauvignon Blanc 2018 Marlborough,White,2018
+13,FRANCE,11.99,Rose,14.99,,M de Minuty Rosé 2018 Côtes de Provence,Rose,2018
+12.5,ITALY,7.99,Pinot Grigio,8.99,,Pinot Grigio Rosé 2018 Delle Venezie,Rose,2018
+12.5,ITALY,7.99,Pinot Grigio,8.99,,Pinot Grigio Superiore 2018 Breganze,White,2018
+13.5,SOUTH AFRICA,7.49,Viognier,9.99,,Men in White Coats Viognier,White,
+13.5,FRANCE,10.99,"Cabernet Sauvignon, Cabernet Franc, Merlot",12.99,,Château Méaume 2015 Bordeaux Supérieur,Red,2015
+13.5,SPAIN,9.99,Smooth Red,13.99,,Rioja Reserva 2013/14 CVNE,Red,2013
+13,FRANCE,7.99,Fruity White,9.99,,Abbotts & Delaunay Viognier 2018,White,2018
+12,ITALY,5.99,Pinot Grigio,7.99,,Pinot Grigio Villa Vito 2018,White,2018
+12,FRANCE,7.99,"Picpoul, Sauvignon Blanc",9.99,,Symbiose Piquepoul Sauvignon Blanc 'Cuvée Florence' 2017 Côtes de Thau,White,2017
+13,NEW ZEALAND,17.99,Sauvignon Blanc,19.99,,Greywacke Sauvignon 2018 Marlborough,White,2018
+14.2,AUSTRALIA,17.99,Shiraz,21.99,,"'Angels' Share' Shiraz 2018 Two Hands, McLaren Vale",Red,2018
+12.5,FRANCE,12.99,Rose,14.99,,Château de Berne Rosé 2018 Côtes de Provence,Rose,2018
+14.5,ARGENTINA,9.99,Big Red,11.99,,Definition Malbec 2018,Red,2018
+14.5,SPAIN,8.99,Big Red,9.99,,Matsu El Picaro 2018 Toro,Red,2018
+14,SPAIN,16.99,Smooth Red,18.99,,Rioja Reserva 2015 Muga,Red,2015
+14.5,AUSTRALIA,29.0,Shiraz,33.0,,Penfolds Bin 28 Kalimna Shiraz 2016 South Australia,Red,2016
+14,PORTUGAL,9.99,Smooth Red,11.99,,Porta 6 Reserva 2017,Red,2017
+14,USA,9.99,Pinot Noir,15.99,,Edna Valley Pinot Noir 2016,Red,2016
+14,AUSTRALIA,10.99,Shiraz,15.99,,"The Lodge Hill Shiraz 2016/17 Jim Barry, Clare Valley",Red,2016
+14.5,SOUTH AFRICA,13.99,"Malbec, Petit Verdot, Cabernet Franc, Merlot, Cabernet Sauvignon",17.99,,Rustenberg John X Merriman 2016 Stellenbosch,Red,2016
+12.5,HUNGARY,5.99,Crisp White,6.99,,Majestic Loves Gruner Veltliner 2018,White,2018
+14.5,FRANCE,6.74,"Mourvèdre, Cinsault, Syrah, Grenache",7.99,,Petit Perdigal Rouge 2018,Red,2018
+12.5,GERMANY,10.99,Crisp White,12.99,,Peter & Ulrich Dry Riesling 2018,White,2018
+12,ITALY,6.66,Pinot Grigio,9.99,,Ammazza Pinot Grigio IGT,White,
+14,FRANCE,11.99,"Shiraz, Syrah",13.99,,Crozes-Hermitage 2017 Cuvee Pallatin ,Red,2017
+13,FRANCE,10.99,Rose,12.99,,Château Pigoudet La Chapelle Rosé 2017 Coteaux dAix-en-Provence,Rose,2017
+13,CHILE,4.99,Crisp White,7.99,,Valle Antigua Chardonnay 2018,White,2018
+12.5,FRANCE,8.99,Viognier,11.99,,Jaboulet Viognier 2018,White,2018
+14,SPAIN,6.99,Smooth Red,9.99,,Rioja Crianza 2015 CVNE,Red,2015
+13.5,ITALY,11.99,Big Red,13.99,,Valpolicella Ripasso 2017 Villa Borghetti,Red,2017
+14,NEW ZEALAND,17.99,Fruity Red,24.0,,Craggy Range Te Muna Road Pinot Noir 2016 Martinborough,Red,2016
+13,NEW ZEALAND,9.99,Sauvignon Blanc,12.99,,Waimea Estate Sauvignon Blanc 2017 Nelson,White,2017
+12,FRANCE,8.99,Melon de Bourgogne,9.99,,Muscadet de Sèvre et Maine Sur Lie 2018 Domaine de la Tourmaline,White,2018
+12,NEW ZEALAND,16.99,Sauvignon Blanc,19.99,,Saint Clair Pioneer Block Sauvignon Blanc 2016 Marlborough,White,2016
+12.5,SOUTH AFRICA,5.99,Merlot,7.99,,Acacia Road Merlot 2018,Red,2018
+13,ITALY,8.99,Fruity White,11.99,,Passimento Bianco 2017 Pasqua,White,2017
+13.5,ARGENTINA,5.99,Malbec,7.99,,Avior Malbec 2018,Red,2018
+12.5,SPAIN,7.99,Rich White,9.99,,Rioja Blanco 2018 López de Haro,White,2018
+13,NEW ZEALAND,8.99,Sauvignon Blanc,10.99,,Black Cottage Sauvignon Blanc 2018 Marlborough,White,2018
+12.5,FRANCE,20.99,Chardonnay,23.99,,Chablis 1er CR Monts & Vallees,White,
+13,USA,7.99,Viognier,8.99,,Nettie Viognier 2017,White,2017
+14.5,ARGENTINA,8.99,Malbec,9.99,,"Parrilla Malbec 2017 Viñalba, Mendoza",Red,2017
+12.5,FRANCE,11.99,"Gamay, Pinot Noir",13.99,,Mâcon Rouge 'Les Roches Rouges' 2017 Louis Jadot,Red,2017
+13,PORTUGAL,7.99,Smooth Red,9.99,,"Agenda, Dão Manager's Choice 2016",Red,2016
+12.5,FRANCE,10.99,Pinot Noir,13.99,,Bourgogne Pinot Noir 2017 Nicolas Potel,Red,2017
+14.5,SOUTH AFRICA,22.0,"Viognier, Cinsault, Cabernet Sauvignon, Grenache, Syrah",25.0,,"The Chocolate Block 2017 Boekenhoutskloof, Western Cape",Red,2017
+12.5,FRANCE,5.99,Malbec,6.99,,La Baume Grande Olivette Malbec 2017 VdF,Red,2017
+14,ARGENTINA,9.99,Malbec,12.99,,"Marcelo Pelleriti Malbec 2018 Valle De Uco, Mendoza",Red,2018
+13,NEW ZEALAND,8.49,Chardonnay,10.49,,Oyster Bay Chardonnay 2016 Marlborough,White,2016
+12.5,FRANCE,12.74,Rose,16.99,,Sancerre Rosé 2017 Jean-Marie Berthier,Rose,2017
+14,SOUTH AFRICA,9.99,Chenin Blanc,12.99,,Definition Chenin Blanc 2018,White,2018
+15,ITALY,19.99,Big Red,22.99,,Amarone Classico 'Vigneti di Roccolo' 2016 Cantina Negrar,Red,2016
+13.5,NEW ZEALAND,12.99,Rich White,15.99,,The King's Legacy Chardonnay 2017 Marlborough,White,2017
+13,ITALY,11.99,Big Red,13.99,,Montepulciano d'Abruzzo 2016 Masciarelli,Red,2016
+12,FRANCE,12.99,Chardonnay,14.49,,Petit Chablis 2016 Domaine Louis Moreau,White,2016
+14,USA,9.99,Chardonnay,15.99,,Edna Valley Chardonnay 2016,White,2016
+13,FRANCE,16.99,Rose,18.99,,Minuty Cuvée Prestige 2018 Côtes de Provence,Rose,2018
+12.5,CHILE,4.99,Sauvignon Blanc,7.99,,Valle Antigua Sauvignon Blanc 2017,White,2017
+14,SPAIN,8.99,Smooth Red,9.99,,Rioja 'Single Vineyard' 2017 Ramón Bilbao,Red,2017
+14.5,AUSTRALIA,7.99,Shiraz,9.99,,Making Tracks Shiraz 2018,Red,2018
+12.5,ROMANIA,5.99,Fruity Red,7.99,,Incanta Pinot Noir 2018,Red,2018
+14,FRANCE,9.99,"Carignan, Mourvèdre, Syrah, Grenache",11.99,,Côtes du Rhône 2016 Vidal-Fleury,Red,2016
+13,FRANCE,9.99,Gamay,12.99,,Fleurie 2018 Georges Duboeuf,Red,2018
+14,AUSTRALIA,9.99,Cabernet Sauvignon,11.99,,Wakefield Estate Cabernet Sauvignon 2016 Clare Valley,Red,2016
+13,AUSTRALIA,5.99,Chardonnay,6.99,,"""The Astronomer"" Chardonnay 2018 De Bortoli",White,2018
+13,FRANCE,8.99,Gamay,10.99,,Hospices de Beaujeu 2017,Red,2017
+13.5,FRANCE,9.99,Cabernet Franc,11.99,,"Saumur Rouge 2017, Domaine des Vignes Biches",Red,2017
+13,NEW ZEALAND,24.75,Sauvignon Blanc,27.5,,Marisco Pride and Glory Sauvignon Blanc 2013 Marlborough,White,2013
+13,FRANCE,11.99,Chardonnay,14.99,,Bourgogne Côte Chalonnaise 2016 La Buxynoise,White,2016
+12.5,ITALY,54.0,Rich White,60.0,,Cervaro Antinori 2016 IGT,White,2016
+20,PORTUGAL,19.99,Malvasia,22.99,,10 year old Malmsey NV Henriques & Henriques,Dessert & Fortified,
+12.5,FRANCE,5.99,"Carignan, Grenache",6.99,,Cuvée Sainte Geneviève Rouge VdF,Red,
+13,FRANCE,10.99,Chardonnay,13.99,,Domaine Fichet Macon Burgy,White,
+12,SOUTH AFRICA,14.99,"Syrah, Grenache, Cabernet Sauvignon, Carignan, Cinsault",19.99,,Alheit Limited Release Red Blend,Red,
+14,ITALY,15.99,Big Red,17.99,,Barolo Araldica 2013,Red,2013
+14,SOUTH AFRICA,9.99,Grüner Veltliner,11.99,,Diemersdal Gruner Veltliner 2018 Durbanville,White,2018
+14,SOUTH AFRICA,14.99,"Merlot, Cabernet Franc, Cabernet Sauvignon",17.99,,Thunderchild Bordeaux Blend,Red,
+17.5,SPAIN,14.99,Palomino,16.99,,Amontillado Seco Napoleon Hidalgo,Dessert & Fortified,
+12.5,FRANCE,13.99,Chardonnay,15.99,,Vire Clesse Pierre Ponnelle,White,
+13.5,FRANCE,8.99,"Cabernet Franc, Merlot, Cabernet Sauvignon",9.99,,Château Pierrousselle 2016,Red,2016
+13.5,FRANCE,24.99,"Merlot, Cabernet Sauvignon",29.99,,Aurore de Dauzac 2014,Red,2014
+14,FRANCE,19.99,"Merlot, Cabernet Sauvignon",24.99,,Lay & Wheeler St Emilion 2015,Red,2015
+13,ARGENTINA,7.49,Fruity White,9.99,,Viñalba Selección Torrontés 2018 Lujan de Cuyo,White,2018
+13,FRANCE,8.99,Mourvèdre,9.99,,Abbotts & Delaunay Mourvedre 2016,Red,2016
+13,AUSTRALIA,7.99,Cabernet Sauvignon,9.99,,Making Tracks Cabernet Sauvignon 2017,Red,2017
+13,FRANCE,15.99,Rich White,17.99,,Rully Blanc En Rosey 2016 Maison Chanzy,White,2016
+11,HUNGARY,26.99,"Harslevelu, Furmint",29.99,,Royal Tokaji 5 Puttonyos 2013 Hungary,Dessert & Fortified,2013
+14,ITALY,90.0,Big Red,100.0,,Tignanello 2015 P. Antinori,Red,2015
+12.5,ITALY,24.3,Crisp White,27.0,,Vigneto du Lot Soave Classico 2016 Inama,White,2016
+14,NEW ZEALAND,16.99,Fruity Red,18.99,,Coney Pizzicato Pinot Noir 2017 Martinborough,Red,2017
+12.5,SOUTH AFRICA,14.99,"Sauvignon Blanc, Pinot Gris",19.99,,Miss Lucy Sauvignon Pinot Gris,White,
+13,HUNGARY,10.99,Crisp White,12.99,,Royal Tokaji Dry Tokaji 2015/16,White,2015
+13.5,FRANCE,9.99,"Viognier, Grenache",11.99,,Hexadique Cote du Rhone Blanc,White,
+13.5,ITALY,8.99,Big Red,9.99,,Sassaiolo Rosso Piceno 2014 Monte Schiavo,Red,2014
+13,FRANCE,25.0,Chardonnay,30.0,,Lay & Wheeler Chablis 2015,White,2015
+14,FRANCE,40.0,Viognier,45.0,,Condrieu 2017 E. Guigal,White,2017
+13.5,FRANCE,17.99,"Carignan, Syrah, Grenache",19.99,,Definition Côtes Du Rhône Magnum 2016,Red,2016
+13,ARGENTINA,8.99,Fruity White,9.99,,Alamos Uco Valley Viognier 2018,White,2018
+13,CHILE,7.99,Fruity Red,9.99,,Morande M Pinot Noir 2018,Red,2018
+12.5,FRANCE,12.99,Sauvignon Blanc,14.99,,Domaine du Vaux Chenonceaux 2016,White,2016

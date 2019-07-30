@@ -1,0 +1,471 @@
+,alcohol_percent,country,discount_price,grape_variety,price,producer,product_name,wine_color,year
+0,14.0,Greece,45.63,Agiorgitiko,49.6,Nemeion,Igemon (1741),Red,2007
+1,13.238694638694637,Greece,11.13,Malagouzia,12.1,Karadimos,Malagouzia Drios Karadimou (2915),White,2017
+2,14.0,Greece,25.12,Syrah,27.3,Avantis,Freedom (3929),Red,2016
+3,13.5,Greece,13.95,Cabernet Franc,15.5,Porto Carras,Chateau Porto Carras (472),Red,2010
+4,13.5,Greece,8.55,Athiri,9.5,Porto Carras,Melissanthi (467),White,2018
+5,12.5,Greece,11.31,Agiorgitiko,12.3,Lafkiotis,Agionymo Lafkiotis (2647),Red,2000
+6,13.0,Greece,7.74,Agiorgitiko,8.6,Semeli,Orinos Helios - Rose (2256),Red,2009
+7,14.0,Greece,20.59,Syrah,22.4,Avantis,Plagies Gerakion - Red (2517),Red,2016
+8,12.6,Greece,7.92,Viognier,8.8,Mercury,Foloi (388),White,2018
+9,12.5,Greece,9.18,Malagouzia,10.2,Lantides,Mikri Kivotos - White (960),White,2018
+10,12.2,Greece,9.57,Viognier,10.4,Claudia Papayianni,CP White (2545),White,2017
+11,13.9,Greece,7.73,Cabernet Sauvignon,8.4,Lantides,Lantides Estate - Chrysampelo (1745),Red,2005
+12,11.5,Greece,6.81,Moshofilero,7.4,Lafkiotis,Moschofilero Lafkiotis (2648),White,2007
+13,12.0,Greece,11.13,Malagouzia,12.1,Claudia Papayianni,Alexandra (2544),White,2018
+14,13.0,Greece,7.74,Syrah,8.6,Semeli,Orinos Helios - Red (490),Red,2017
+15,12.6,Greece,12.24,Chardonnay,13.3,Claudia Papayianni,Domaine Claudia Papayianni White (2543),White,2016
+16,12.0,Greece,7.92,Moshofilero,8.8,Lantides,Anosis (1749),White,2018
+17,13.238694638694637,Greece,5.94,Agiorgitiko,6.6,Semeli,Giorti - White (2696),Red,2018
+18,13.2,Greece,11.96,Sauvignon Blanc,13.0,Akrathos,Oros (4078),White,2017
+19,14.0,Greece,15.27,Agiorgitiko,16.6,Palivos,Terra Leone - Ammos Reserve (73),Red,2006
+20,13.5,Greece,10.03,Agiorgitiko,10.9,Palivos,Palivou Estate - Nemea (74),Red,2006
+21,12.0,Greece,4.77,Kotsifali,5.3,Boutari,Boutari - Kritikos Red (3037),Red,2016
+22,14.0,Greece,33.12,Chardonnay,36.0,Antonopoulos,ANAX (154),White,2018
+23,12.5,Greece,10.62,Moshofilero,11.8,Gentilini Kosmetatos,Notes Rose (228),Red,2018
+24,13.238694638694637,Greece,5.94,Moshofilero,6.6,Semeli,Piccolo Mondo - White (2697),White,2018
+25,13.0,Greece,7.35,Cabernet Sauvignon,8.2,Symeonidis,Iliostalachtos - Red (2075),Red,2013
+26,12.5,Greece,6.17,Sauvignon Blanc,6.9,Symeonidis,Iliostalachtos - White (2074),White,2018
+27,14.0,Greece,14.17,Merlot,15.4,Ampelois,Ampelois Gold (2183),Red,2012
+28,13.0,Greece,10.76,Sauvignon Blanc,11.7,Ampelois,Symfonia (2186),White,2017
+29,12.0,Greece,9.11,Chardonnay,9.9,Boutari,4 Epoches (9),White,2010
+30,15.5,Greece,18.77,Cabernet Franc,20.4,Antonopoulos,Nea Dris- Cabernet (162),Red,2015
+31,13.0,Greece,12.43,Syrah,13.5,Gentilini Kosmetatos,Notes Red (226),Red,2017
+32,14.0,Greece,15.55,Sangiovese,16.9,Karipidis,Karipidis - Sangiovese (355),Red,2014
+33,13.0,Greece,12.97,Viognier,14.1,Mercury,Coma Berenices (391),White,2017
+34,14.0,Greece,22.08,Refosco,24.0,Mercury,"Domaine Mercouri ""Cava"" (394)",Red,2014
+35,13.0,Greece,12.97,Refosco,14.1,Mercury,Mercouri Estate - Red (395),Red,2017
+36,13.0,Greece,11.04,Cabernet Sauvignon,12.0,Symeonidis,Idypnoos Merlot (510),Red,2013
+37,13.5,Greece,9.57,Cabernet Sauvignon,10.4,Boutari,Cava Boutari  (2502),Red,2010
+38,14.0,Greece,15.0,Syrah,16.3,Boutari,Scalarea (1107),Red,2013
+39,13.5,Greece,15.92,Nebbiolo,17.3,Karipidis,Karipidis - Nebbiolo (2512),Red,2012
+40,13.0,Greece,8.62,Grenache Rouge,9.6,Symeonidis,Kokkino Fili (511),Red,2017
+41,12.5,Greece,13.43,Sauvignon Blanc,14.6,Karipidis,Karipidis - Sauvignon Blanc Fume (2562),White,2018
+42,14.0,Greece,9.74,Syrah,10.6,Boutari,Syrah Boutari (2617),Red,2016
+43,11.5,Greece,9.46,Moshofilero,10.3,Boutari,Oropedio (3175),White,2017
+44,13.238694638694637,Greece,40.11,Syrah,43.6,Vrinioti Wines,Vriniotis Syrah Wild Fermentation (2716),Red,2015
+45,12.5,Greece,7.05,Malagouzia,7.7,Markou,Malagouzia Markou (3092),White,2018
+46,13.238694638694637,Greece,9.55,Moshofilero,10.6,Lantides,Little Arc - Rose (4046),Red,2017
+47,13.238694638694637,Greece,9.2,Sauvignon Blanc,10.0,Lantides,ERGO Lantides White (3209),White,2018
+48,11.5,Greece,9.38,Moshofilero,10.2,Palivos,La Vie en Rose (3255),Red,2008
+49,13.238694638694637,Greece,6.8,Agiorgitiko,7.4,Markou,Savatiano Markou (4263),Red,2018
+50,12.5,Greece,11.96,Malagouzia,13.0,Ampelois,Ampelois - Malagouzia (2286),White,2018
+51,13.0,Greece,13.73,Pinot Noir,14.9,Dio Filoi,Dio Filoi - Pinot Noir (2274),Red,2016
+52,12.0,Greece,8.92,Syrah,9.7,Sgouridis,Sgouridis - Rose  (2420),Red,2016
+53,13.5,Greece,7.88,Cabernet Sauvignon,8.6,Karanika,Terra Levea Red (2856),Red,2015
+54,13.238694638694637,Greece,8.0,Agiorgitiko,8.7,Markou,Savatiano Markou (4264),Red,2016
+55,14.0,Greece,16.01,Cabernet Sauvignon,17.4,Lantides,Cava Lantides (1746),Red,2005
+56,13.0,Greece,9.09,Agiorgitiko,10.1,Lantides,Lantides Estate - Nemea (1744),Red,2005
+57,13.0,Greece,8.74,Cabernet Sauvignon,9.5,Lantides,Ergo- Rose (1747),Red,2018
+58,12.5,Greece,10.4,Sauvignon Blanc,11.3,Karipidis,Karipidis - Sauvignon Blanc (2015),White,2018
+59,13.5,Greece,13.62,Cabernet Sauvignon,14.8,Ampelois,Ampelois Silver (2184),Red,2014
+60,14.0,Greece,13.52,Merlot,14.7,Karipidis,Karipidis - Merlot (2017),Red,2014
+61,13.0,Greece,6.9,Agiorgitiko,7.5,Palivos,Anemos - Red (2231),Red,2003
+62,12.5,Greece,9.62,Malagouzia,10.7,Symeonidis,Symeonidis - Malagouzia  (2073),White,2018
+63,13.5,Greece,13.34,Syrah,14.5,Karipidis,Karipidis - Syrah (2381),Red,2013
+64,13.3,Greece,16.1,Agiorgitiko,17.5,Akrathos,Philosopher (4080),Red,2015
+65,14.5,Greece,15.36,Pinot Noir,16.7,ALPHA,Alpha Estate - Pinot Noir (100),Red,2017
+66,14.0,Greece,12.33,Syrah,13.4,ALPHA,Alpha Estate - Syrah Chelones (1997),Red,2016
+67,13.0,Greece,9.84,Malagouzia,10.7,ALPHA,Alpha Estate - Malagouzia (2246),White,2018
+68,13.5,Greece,8.83,Krasato,9.6,Tsantalis,Rapsani (11),Red,2016
+69,12.5,Greece,9.11,Malagouzia,9.9,Anastasia Fragou,Neilys Malagouzia (2316),White,2018
+70,14.5,Greece,21.34,Merlot,23.2,ALPHA,Alpha Estate - Red (1994),Red,2016
+71,12.8,Greece,10.03,Cabernet Sauvignon,10.9,Claudia Papayianni,CP Red (2546),Red,2016
+72,13.238694638694637,Greece,5.52,Cabernet Sauvignon,6.0,Cavino,Nea Dris- Cabernet (4092),Red,2018
+73,13.5,Greece,14.81,Cabernet Sauvignon,16.1,Chatzimichalis,Hatzimichalis Estate - Cabernet Sauvignon (47),Red,2011
+74,12.0,Greece,7.62,Roditis,8.5,Gaia,Retinitis Nobilis (233),White,2018
+75,14.0,Greece,22.91,Agiorgitiko,24.9,Gaia,Gaia Estate - Red (234),Red,2016
+76,13.5,Greece,8.98,Agiorgitiko,10.0,Gaia,Agiorgitiko Gaia (236),Red,2017
+77,12.0,Greece,9.66,Chardonnay,10.5,Tsantalis,Kanenas - White (537),White,2018
+78,13.8,Greece,19.94,Agiorgitiko,21.7,Gaia,Anatolikos (239),Red,2006
+79,13.0,Greece,10.26,Agiorgitiko,11.4,Semeli,Semeli Nemea Reserve (494),Red,2015
+80,14.0,Greece,22.82,Chardonnay,24.8,Chatzimichalis,"Estate Hadjimichali - Kapnias ""Vineyard Zygos"" (562)",White,2017
+81,14.0,Greece,47.29,Cabernet Sauvignon,51.4,Tsantalis,Kormilitsa - Red (1756),Red,2014
+82,13.5,Greece,27.6,Merlot,30.0,Chatzimichalis,"Hatzimichalis Estate - Merlot ""Vineyard Alargino"" (1548)",Red,2011
+83,12.5,Greece,26.22,Chardonnay,28.5,Tsantalis,Kormilitsa - White (1757),White,2017
+84,13.0,Greece,39.01,Cabernet Franc,42.4,Chatzimichalis,Hatzimichalis Estate - Opus IB Cabernet Franc (2795),Red,2004
+85,12.0,Greece,8.73,Agiorgitiko,9.8,Gaia,Gaia 4-6h (3872),Red,2018
+86,13.238694638694637,Greece,10.62,Aidani,11.8,Moraitis,Moraitis Rose (3997),Red,2018
+87,13.5,Greece,12.51,Syrah,13.6,Tsantalis,Kanenas - Red (541),Red,2016
+88,13.238694638694637,Greece,10.08,Monemvasia,11.2,Moraitis,Paros  White (3995),White,2018
+89,13.0,Greece,9.38,Merlot,10.2,Anastasia Fragou,Savatiano (4270),Red,2018
+90,13.238694638694637,Greece,16.74,Mantilaria,18.6,Moraitis,Paros Reserve (3998),Red,2015
+91,14.0,Greece,25.3,Cabernet Sauvignon,27.5,Chatzimichalis,"Estate Hadjimichali - Kapnias ""Vineyard Zygos"" (563)",Red,2011
+92,13.0,Greece,9.38,Cabernet Sauvignon,10.2,Anastasia Fragou,Savatiano (4269),Red,2017
+93,13.238694638694637,Greece,27.42,Monemvasia,29.8,Moraitis,Malvasia Paros (4313),White,2016
+94,12.0,Greece,13.71,Sauvignon Blanc,14.9,Lazaridis Costas,Amethystos - Sauvignon Blanc (35),White,2010
+95,12.0,Greece,10.86,Sauvignon Blanc,11.8,Lazaridis Costas,Amethystos - White (36),White,2010
+96,14.5,Greece,16.93,Refosco,18.4,Lazaridis Costas,Chateau Julia - Refosco Agiorgitiko (41),Red,2010
+97,13.0,Greece,10.86,Cabernet Sauvignon,11.8,Lazaridis Costas,Amethystos - Rose (38),Red,2006
+98,13.0,Greece,22.63,Cabernet Franc,24.6,Lazaridis Costas,Amethystos Cava (45),Red,2006
+99,14.5,Greece,34.22,Syrah,37.2,Lazaridis Costas,Oenotria Ghi  - Syrah & Agiorgitiko (326),Red,2016
+100,14.0,Greece,16.56,Syrah,18.0,Lazaridis Costas,Domaine Costa Lazaridi - Syrah (63),Red,2005
+101,12.5,Greece,10.58,Sauvignon Blanc,11.5,Oinogenesis,Feggites - White (2132),White,2017
+102,13.0,Greece,10.58,Cabernet Sauvignon,11.5,Oinogenesis,Feggites - Rose (2134),Red,2017
+103,13.5,Greece,13.8,Cabernet Franc,15.0,Oinogenesis,Feggites - Red (2133),Red,2011
+104,12.5,Greece,15.82,Sauvignon Blanc,17.2,Oinogenesis,Ten - White (2135),White,2012
+105,12.5,Greece,11.13,Viognier,12.1,Oinogenesis,Thyrsus - White (2815),White,2016
+106,12.0,Greece,7.47,Grenache Rouge,8.3,Oinogenesis,Scerzo - Rose (2261),Red,2018
+107,13.238694638694637,Greece,12.24,Mantilaria,13.6,Moraitis,Paros  Red (3996),Red,2016
+108,13.0,Greece,12.42,Merlot,13.5,Lazaridis Nico,To Mavro Provato - Red (2284),Red,2017
+109,13.5,Greece,6.93,Grenache Rouge,7.7,Avantis,Avantis Estate - Red (2417),Red,2012
+110,13.0,Greece,6.57,Roditis,7.3,Kir Yiannis,Paraga - White (2288),White,2018
+111,13.5,Greece,7.91,Liatiko,8.6,Douloufakis,Douloufakis - Dafnios Red (2579),Red,2016
+112,10.0,Greece,41.03,Aidani,44.6,Gavalas,Vinsanto Gavalas (2939),White,2008
+113,12.5,Greece,9.11,Malagouzia,9.9,Zafeirakis,Palaiomylos Malagouzia (2869),White,2018
+114,14.5,Greece,10.86,Merlot,11.8,Kir Yiannis,Kir-Yianni Estate (3107),Red,2016
+115,13.238694638694637,Greece,4.77,Sauvignon Blanc,5.3,Douloufakis,Douloufakis - Enotria White (2998),White,2018
+116,12.5,Greece,9.11,Malagouzia,9.9,Anastasia Fragou,Savatiano (4268),White,2018
+117,14.5,Greece,18.22,Cabernet Sauvignon,19.8,Lazaridis Costas,Oenotria Ghi - Cabernet Sauvignon & Agiorgitiko (44),Red,2016
+118,14.5,Greece,14.44,Cabernet Sauvignon,15.7,Lazaridis Costas,Amethystos - Red (37),Red,2009
+119,13.0,Greece,11.5,Grenache Rouge,12.5,Lazaridis Nico,Nico Lazaridi F - Merlot & Grenache Rouge (61),Red,2017
+120,12.5,Greece,10.4,Sauvignon Blanc,11.3,Lazaridis Nico,Château Nico Lazaridi - White (58),White,2018
+121,13.0,Greece,16.56,Sauvignon Blanc,18.0,Lazaridis Nico,Magiko Vouno - White (111),White,2018
+122,12.5,Greece,8.37,Chardonnay,9.1,Lazaridis Nico,Chrysos Leon - Chardonnay (1827),White,2017
+123,12.5,Greece,10.4,Sauvignon Blanc,11.3,Lazaridis Nico,To Mavro Provato - White (2285),White,2018
+124,13.6,Greece,13.16,Malagouzia,14.3,Lazaridis Costas,Domaine Costa Lazaridi - Malagouzia (4048),White,2005
+125,13.0,Greece,8.37,Cabernet Sauvignon,9.1,Lazaridis Nico,Chrysos Leon - Cabernet Sauvignon (1828),Red,2017
+126,13.0,Greece,10.03,Malagouzia,10.9,Theopetra,Theopetra Estate - White (2584),White,2018
+127,13.5,Greece,15.92,Cabernet Sauvignon,17.3,Douloufakis,Douloufakis - Sangiovese (2308),Red,2014
+128,14.0,Greece,11.25,Cabernet Sauvignon,12.5,Douloufakis,Douloufakis - Aspros Lagos Cabernet (2306),Red,2016
+129,13.238694638694637,Greece,10.86,Cabernet Sauvignon,11.8,Barafakas Estate,Thousand Years Red (3170),Red,2013
+130,13.0,Greece,20.52,Chardonnay,22.3,Kir Yiannis,Palpo (3180),White,2017
+131,14.5,Greece,24.56,Cabernet Franc,26.7,Lazaridis Nico,Magiko Vouno - Red (2175),Red,2013
+132,13.238694638694637,Greece,6.62,Syrah,7.2,Zafeirakis,Μικρή Αρκούδα Ροζέ (4177),Red,2018
+133,11.5,Greece,8.56,Moshofilero,9.3,Tsantalis,Tsantali - Moschofilero (2393),White,2017
+134,13.5,Greece,14.17,Krasato,15.4,Tsantalis,Epilegmenos Rapsani (534),Red,2014
+135,13.5,Greece,8.19,Agiorgitiko,8.9,Tsantalis,Tsantali MONO Agiorgitiko (2394),Red,2015
+136,13.0,Greece,10.35,Sauvignon Blanc,11.5,Techni Oinou,Techni Alypias - White (2365),White,2018
+137,13.238694638694637,Greece,6.81,Agiorgitiko,7.4,Barafakas Estate,Ampelou Idea Red (2918),Red,2017
+138,13.238694638694637,Greece,10.58,Malagouzia,11.5,Techni Oinou,Plano Malagouzia (4044),White,2017
+139,12.5,Greece,8.0,Agiorgitiko,8.7,Theodorakakos,Theodorakakos Estate - Rose (2088),Red,2018
+140,13.238694638694637,Greece,8.56,Malagouzia,9.3,Mylonas,Mylonas - Malagouzia (4267),Red,2018
+141,13.5,Greece,19.96,Cabernet Sauvignon,21.7,Skouras,Megas Oenos Skoura (13),Red,2015
+142,14.0,Greece,21.71,Cabernet Franc,23.6,Skouras,Synoro Skoura (14),Red,2014
+143,13.5,Greece,25.12,Pinot Noir,27.3,Katogi,Rossiu di Munte Pinot Noir (304),Red,2013
+144,13.5,Greece,8.92,Agiorgitiko,9.7,Skouras,Skouras - Agiorgitiko  (15),Red,2016
+145,13.5,Greece,11.41,Chardonnay,12.4,Arvanitidis,Arvanitidi - Chardonnay  (2001),White,2018
+146,12.6,Greece,22.82,Aidani,24.8,Argyros,Estate Argyros - Aidani (2007),White,2018
+147,14.5,Greece,17.11,Cabernet Franc,18.6,Lazaridis Nico,Cavalieri - Red (3088),Red,2014
+148,12.0,Greece,13.16,Sauvignon Blanc,14.3,Lazaridis Nico,Cavalieri - White (3089),White,2017
+149,14.0,Greece,11.32,Syrah,12.3,Avantis,Avantis Estate - Syrah (108),Red,2001
+150,13.0,Greece,9.66,Sauvignon Blanc,10.5,Avantis,Avantis Estate - Sauvignon Blanc (104),White,2012
+151,14.0,Greece,51.34,Syrah,55.8,Avantis,Avantis Estate - Syrah Collection (130),Red,2011
+152,14.5,Greece,14.26,Merlot,15.5,Kir Yiannis,Dio Elies (323),Red,2016
+153,13.0,Greece,9.81,Sauvignon Blanc,10.9,Kir Yiannis,Samaropetra (400),White,2018
+154,14.0,Greece,17.02,Aidani,18.5,SantoWines,Santorini Nichteri (1321),White,2017
+155,13.0,Greece,10.58,Grenache Rouge,11.5,Lazaridis Nico,Nico Lazaridi - Rose (1821),Red,2018
+156,13.5,Greece,11.13,Cabernet Sauvignon,12.1,Tsantalis,Metoxi Chromitsa - Red (539),Red,2016
+157,13.5,Greece,12.88,Cabernet Sauvignon,14.0,Lazaridis Nico,Chateau Nico Lazaridi - Red (1823),Red,2016
+158,13.0,Greece,5.04,Kotsifali,5.6,Lyrarakis,Lyrarakis - Kotsifali (2200),Red,2010
+159,13.0,Greece,25.67,Cabernet Sauvignon,27.9,Lazaridis Nico,Perpetuus - Red (1824),Red,2011
+160,13.5,Greece,22.82,Cabernet Sauvignon,24.8,Katogi,Rossiu di Munte - Giniets (2410),Red,2013
+161,14.0,Greece,8.56,Merlot,9.3,Skouras,Skouras - Portes Merlot (2401),Red,2017
+162,15.0,Greece,19.96,Syrah,21.7,Pavlidis,Emphasis - Syrah (2435),Red,2014
+163,12.5,Greece,5.04,Vilana,5.6,Lyrarakis,Lyrarakis - Vilana (2197),White,2010
+164,11.5,Greece,10.86,Moshofilero,11.8,Skouras,Salto Wild Yeast (2561),White,2017
+165,13.0,Greece,7.73,Cabernet Sauvignon,8.4,Katogi,Katogi Averof - Red (64),Red,2016
+166,13.5,Greece,17.3,Agiorgitiko,18.8,Skouras,Grande Cuvee Nemea (115),Red,2014
+167,13.0,Greece,12.14,Sauvignon Blanc,13.2,Pavlidis,THEMA - White (92),White,2018
+168,14.0,Greece,20.52,Agiorgitiko,22.3,Aivalis,Monopati (134),Red,2016
+169,13.0,Greece,6.17,Cabernet Sauvignon,6.9,Στροφιλιά,Strofilia Rose (1372),Red,2018
+170,14.0,Greece,9.57,Agiorgitiko,10.4,Papaioannou,Estate Papaioannou Nemea - Red (446),Red,2014
+171,14.0,Greece,14.81,Syrah,16.1,Pavlidis,THEMA - Red (462),Red,2015
+172,13.5,Greece,14.47,Cabernet Franc,15.7,Katogi,Estate Averof - Red (301),Red,2011
+173,11.5,Greece,11.68,Pinot Noir,12.7,Papaioannou,Papaioannou - Pinot Noir (454),Red,2017
+174,12.5,Greece,25.65,Aidani,28.5,Chatzidakis,Hatzidakis - Aidani (554),White,2017
+175,13.0,Greece,23.83,Aidani,25.9,Chatzidakis,Hatzidakis - Vinsanto  (556),White,2004
+176,12.5,Greece,13.89,Mantilaria,15.1,Lyrarakis,"Lyrarakis - Mandilari ""Plakoures"" (2196)",Red,2012
+177,13.0,Greece,11.7,Mantilaria,13.0,Argyros,Atlantis - Rose (2009),Red,2018
+178,12.5,Greece,11.7,Aidani,13.0,Argyros,Atlantis - White (2008),White,2011
+179,13.0,Greece,8.74,Syrah,9.5,Lyrarakis,Lyrarakis - Red (2204),Red,2011
+180,14.0,Greece,13.27,Cabernet Sauvignon,14.4,Pieria Eratini,Efhes ... Eratines - Red (2262),Red,2016
+181,14.0,Greece,14.81,Chardonnay,16.1,Pavlidis,Emphasis - Chardonnay (2433),White,2017
+182,13.0,Greece,11.04,Tempranillo,12.0,Pavlidis,THEMA - Rose (465),Red,2018
+183,13.0,Greece,15.02,Malagouzia,16.3,Pieria Eratini,Efhes ... Eratines - Sweet (2880),White,2013
+184,13.238694638694637,Greece,5.22,Roditis,5.8,Kechris,Kechribari Retsina (3224),White,2018
+185,13.238694638694637,Greece,22.91,Krasato,24.9,Tsantalis,Rapsani Grand Reserve (3183),Red,2011
+186,13.238694638694637,Greece,26.96,Syrah,29.3,Aivalis,Deux Dieux (3970),Red,2016
+187,14.0,Greece,68.63,Agiorgitiko,74.6,Aivalis,"Four ""4"" (2445_2010)",Red,2014
+188,9.0,Greece,33.76,Mantilaria,36.7,Sigalas,Apiliotis Mezzo (480),Red,2011
+189,12.0,Greece,9.66,Malagouzia,10.5,Papagiannakos,Kalogeri Malagouzia (2871),White,2017
+190,13.9,Greece,23.37,Aidani,25.4,SantoWines,Santorini Nichteri Reserve (1322),White,2016
+191,12.0,Greece,9.66,Malagouzia,10.5,Papagiannakos,Kalogeri Malagouzia (2871_2017),White,2017
+192,13.0,Greece,20.7,Agiorgitiko,22.5,Parparousis,Nemea Epilegmenos (443),Red,2013
+193,12.5,Greece,11.04,Syrah,12.0,Tsantalis,Kanenas - Rose (543),Red,2017
+194,13.5,Greece,11.34,Merlot,12.6,Lantides,AENAON Merlot (1784),Red,2016
+195,15.0,Greece,24.11,Liatiko,26.2,Boutari,Iouliatiko (2216),Red,2006
+196,13.0,Greece,17.16,Refosco,18.5,Mercury,Refosco Klonos Mercury (2222),Red,2016
+197,13.238694638694637,Greece,8.19,Agiorgitiko,8.9,Palivos,Bee (2694),Red,2018
+198,14.0,Greece,25.3,Chardonnay,27.5,Antonopoulos,ANAX (154_2015),White,2015
+199,13.5,Greece,16.56,Syrah,18.0,Gentilini Kosmetatos,Gentilini Syrah (227),Red,2017
+200,13.0,Greece,10.76,Chardonnay,11.7,Ampelois,Folia (2185),White,2017
+201,13.2,Greece,19.53,Robola,21.7,Gentilini Kosmetatos,Gentilini Robola Kefalonia Wild Paths (3810),White,2018
+202,11.0,Greece,7.38,Moshofilero,8.2,Boutari,Boutari - Moschofilero (10),White,2018
+203,13.0,Greece,9.81,Sauvignon Blanc,10.9,Gentilini Kosmetatos,Notes White (80),White,2011
+204,12.0,Greece,18.46,Syrah,20.1,Porto Carras,Porto Carras - Syrah (2257),Red,2007
+205,12.5,Greece,14.44,Chardonnay,15.7,Karipidis,Karipidis - Chardonnay (354),White,2018
+206,13.0,Greece,13.59,Robola,15.1,Gentilini Kosmetatos,Gentilini Robola Kefalonia (224),White,2018
+207,13.0,Greece,9.09,Chardonnay,10.1,Lantides,Chardonnay Lantides (1748),White,2018
+208,12.0,Greece,8.91,Moshofilero,9.9,Tselepos,Tselepos - Mantinea  (2028),White,2018
+209,13.238694638694637,Greece,15.0,Agiorgitiko,16.3,Tselepos,Amalia Rose (3145),Red,2018
+210,15.0,Greece,10.62,Merlot,11.8,Mylopotamos,Mylopotamos - Nama (2482),Red,2009
+211,14.0,Greece,16.19,Agiorgitiko,17.6,Dryopi,Dryope Estate - Reserve (52),Red,2015
+212,12.5,Greece,16.19,Gewurztraminer,17.6,Tselepos,Melissopetra (84),White,2018
+213,13.0,Greece,8.91,Agiorgitiko,9.9,Dryopi,Dryope Estate - Rose (261),Red,2017
+214,14.0,Greece,16.19,Chardonnay,17.6,Tselepos,Marmarias (85),White,2017
+215,14.0,Greece,26.22,Merlot,28.5,Tselepos,Kokkinomylos (547),Red,2017
+216,13.0,Greece,8.37,Chardonnay,9.1,Sgouridis,Sgouridi Sigma - White (2110),White,2016
+217,12.5,Greece,8.28,Malagouzia,9.2,Mylonas,Mylonas - Malagouzia (2671),White,2018
+218,13.5,Greece,9.99,Syrah,11.1,Douloufakis,Douloufakis - Syrah (2282),Red,2014
+219,13.5,Greece,9.48,Syrah,10.3,Sgouridis,Sgouridi Sigma - Red (2245),Red,2015
+220,14.0,Greece,23.85,Limnio,26.5,Kikones,Kikones Limnio (2672),Red,2016
+221,9.0,Greece,42.78,Aidani,46.5,Sigalas,Sigalas - Vinsanto (481),White,2013
+222,14.0,Greece,18.36,Cabernet Sauvignon,20.4,Kikones,Kikones Ippeas (2673),Red,2016
+223,13.7,Greece,13.68,Mantilaria,15.0,Sigalas,Sigalas - Mavrotragano Mandilaria (2541),Red,2017
+224,13.238694638694637,Greece,16.01,Gewurztraminer,17.4,Semeli,Semeli Gewurztraminer (497),White,2018
+225,13.5,Greece,24.75,Syrah,26.9,Kikones,Kikones Syrah (2674),Red,2015
+226,13.238694638694637,Greece,26.4,Agiorgitiko,28.7,Aivalis,Le Sang de la Pierre  (3802),Red,2017
+227,13.0,Greece,27.45,Aidani,30.5,Sigalas,Sigalas - Aidani (2612),White,2014
+228,13.238694638694637,Greece,11.16,Monemvasia,12.4,Sigalas,Sigalas - Assyrtiko Monemvasia (4129),White,2018
+229,14.0,Greece,16.28,Gewurztraminer,17.7,ALPHA,Alpha Estate - Omega (102),White,2016
+230,13.0,Greece,15.64,Chardonnay,17.0,ALPHA,Alpha Estate - Chardonnay (1851),White,2017
+231,14.5,Greece,26.59,Merlot,28.9,ALPHA,Alpha Estate - Red (Old Vinatage) (1994_2013),Red,2013
+232,12.5,Greece,6.21,Agiorgitiko,6.8,Theodorakakos,Perivleptos Red (2083),Red,2013
+233,13.4,Greece,13.89,Merlot,15.1,Claudia Papayianni, Domaine Claudia Papayianni Red (2542),Red,2016
+234,14.5,Greece,50.78,Syrah,55.2,ALPHA,Alpha Estate - ONE (101_2011),Red,2013
+235,14.5,Greece,25.48,Merlot,27.7,ALPHA,Alpha Estate - Red (Old Vinatage) (1994_2012),Red,2012
+236,13.0,Greece,15.64,Sauvignon Blanc,17.0,ALPHA,Alpha Estate - Sauvignon Blanc Fume (3210),White,2018
+237,13.238694638694637,Greece,27.42,Monemvasia,29.8,Moraitis,Malvasia Paros (3999),White,2011
+238,14.5,Greece,36.62,Merlot,39.8,ALPHA,Alpha Estate - Red (Old Vinatage) (1994_2009),Red,2009
+239,14.5,Greece,56.58,Merlot,61.5,ALPHA,Alpha Estate - Red (Old Vinatage) (1994_2005),Red,2005
+240,14.5,Greece,62.1,Merlot,67.5,ALPHA,Alpha Estate - Red (Old Vinatage) (1994_2004),Red,2004
+241,13.0,Greece,7.74,Merlot,8.6,Kir Yiannis,Paraga - Red (95),Red,2017
+242,15.0,Greece,16.1,Merlot,17.5,Lazaridis Costas,Chateau Julia - Merlot (42),Red,2011
+243,13.0,Greece,6.53,Grenache Rouge,7.1,Avantis,Avantis Estate - Rose (107),Red,2012
+244,13.0,Greece,10.86,Gewurztraminer,11.8,Avantis,Avantis Estate - Lenga (106),White,2012
+245,14.0,Greece,22.82,Syrah,24.8,Avantis,Avantis Estate - Agios Chronos (109),Red,2012
+246,13.5,Greece,12.51,Chardonnay,13.6,Kir Yiannis,Tesseris Limnes (316),White,2018
+247,14.5,Greece,31.92,Syrah,34.7,Kir Yiannis,Diaporos (319),Red,2016
+248,13.238694638694637,Greece,8.46,Moshofilero,9.2,Troupis Estate,Tomi Mantineia (2982),White,2017
+249,13.238694638694637,Greece,9.84,Chardonnay,10.7,Barafakas Estate,Thousand Years White (3171),White,2015
+250,12.5,Greece,6.39,Viognier,7.1,Avantis,Avantis Estate - White (2416),White,2012
+251,13.238694638694637,Greece,6.72,Malagouzia,7.3,Barafakas Estate,Ampelou Idea White (2920),White,2017
+252,13.238694638694637,Greece,15.82,Chardonnay,17.2,Zafeirakis,Propodes (3915),White,2016
+253,13.238694638694637,Greece,27.42,Gewurztraminer,29.8,Kir Yiannis,Chrysogerakas (3273),White,2013
+254,14.0,Greece,13.8,Chardonnay,15.0,Techni Oinou,Idisma Drios - Chardonnay (2038),White,2016
+255,13.0,Greece,10.86,Gewurztraminer,11.8,Avantis,Avantis Estate - Lenga (4198),Red,2012
+256,14.0,Greece,13.8,Syrah,15.0,Techni Oinou,Idisma Drios - Syrah (2208),Red,2011
+257,13.238694638694637,Greece,12.24,Agiorgitiko,13.3,Barafakas Estate,Apocalypsis Barafakas (3914),Red,2013
+258,13.0,Greece,5.04,Mantilaria,5.6,Lyrarakis,Lyrarakis - Mandilari Rose (2201),Red,2017
+259,14.5,Greece,16.56,Syrah,18.0,Skouras,Fleva (2290),Red,2017
+260,14.0,Greece,18.86,Tempranillo,20.5,Pavlidis,Emphasis - Tempranillo (2434),Red,2015
+261,13.5,Greece,12.05,Viognier,13.1,Skouras,Viognier Cuvee Larsinos (113),White,2017
+262,12.0,Greece,8.56,Moshofilero,9.3,Skouras,Moschofilero Skoura (1829),White,2018
+263,13.0,Greece,23.09,Cabernet Sauvignon,25.1,Lyrarakis,Lyrarakis - Cabernet & Merlot (2205),Red,2012
+264,13.5,Greece,14.7,Merlot,16.3,Katogi,Flogero (302),Red,2010
+265,14.0,Greece,13.98,Grenache Rouge,15.2,Manoussakis,Nostos Alexandra's (385),Red,2015
+266,14.0,Greece,12.15,Agiorgitiko,13.2,Aivalis,Nemea Aivali (133),Red,2017
+267,14.5,Greece,18.58,Syrah,20.2,Manoussakis,Nostos Syrah (386),Red,2015
+268,13.5,Greece,15.57,Agiorgitiko,17.3,Papaioannou,Estate Papaioannou - Old vines (456),Red,2010
+269,13.0,Greece,6.71,Syrah,7.5,Στροφιλιά,Strofilia Red (312),Red,2017
+270,12.8,Greece,11.7,Mantilaria,13.0,Argyros,Atlantis - Red (2010),Red,2017
+271,14.0,Greece,33.86,Mantilaria,36.8,Chatzidakis,Hatzidakis - Mavrotragano (1837),Red,2016
+272,13.238694638694637,Greece,10.86,Chardonnay,11.8,Skouras,Armyra Skoura (3136),White,2017
+273,13.0,Greece,17.25,Syrah,18.8,Katogi,Rossiu di Munte - Syrah & Traminer (2486),Red,2009
+274,12.5,Greece,8.91,Dafni,9.9,Lyrarakis,"Lyrarakis - Daphne ""Psarades"" (2194)",White,2009
+275,13.0,Greece,11.04,Chardonnay,12.0,Pieria Eratini,Efhes... Eratines - White (2043),White,2018
+276,13.5,Greece,11.04,Syrah,12.0,Theopetra,Theopetra Estate - Rose (2586),Red,2018
+277,12.0,Greece,6.16,Agiorgitiko,6.7,Papaioannou,Vineyard Papaioannou - Rose Agiorgitiko (452),Red,2018
+278,13.0,Greece,17.66,Malagouzia,19.2,Papagiannakos,Melias (3169),White,2015
+279,13.238694638694637,Greece,7.91,Cabernet Sauvignon,8.6,Papagiannakos,Παπαγιαννάκος - Αγιωργίτικο - Cabernet (3204),Red,2016
+280,12.0,Greece,15.0,Moshofilero,16.3,Tselepos,Amalia Brut (549),White,2018
+281,13.0,Greece,13.59,Cabernet Sauvignon,15.1,Tselepos,Domaine Tselepos - Dilofos (2466),Red,2015
+282,13.5,Greece,11.04,Moshofilero,12.0,Tselepos,Tselepos - Blanc de Gris  (2896),White,2018
+283,14.0,Greece,21.9,Cabernet Sauvignon,23.8,Tselepos,Avlotopi (548),Red,2015
+284,13.0,Greece,9.63,Agiorgitiko,10.7,Dryopi,Dryope Estate - Nemea (262),Red,2016
+285,13.238694638694637,Greece,11.96,Moshofilero,13.0,Semeli,Thea Mantinia (3780),White,2017
+286,13.238694638694637,Greece,20.61,Cabernet Sauvignon,22.4,Papargyriou (Estate),Le Roi des Montagnes Cuvee (3781),Red,2016
+287,13.238694638694637,Greece,16.74,Nebbiolo,18.2,Papargyriou (Estate),Don Giovanni (3822),Red,2016
+288,13.0,Greece,12.7,Merlot,13.8,Zacharias,Mavros eis ton kivo (1763),Red,2016
+289,13.238694638694637,Greece,7.54,Roditis,9.2,Τetramythos,Tetramythos White (3164),White,2018
+0,13.0,NEW ZEALAND,7.99,Sauvignon Blanc,9.99,Unkwon Producer,Devil's Creek Marlborough Sauvignon Blanc 2017/2018,White,2018
+1,13.5,SPAIN,11.99,Smooth Red,13.99,Unkwon Producer,Definition Rioja Reserva 2013,Red,2013
+2,13.0,NEW ZEALAND,8.99,Sauvignon Blanc,9.99,Unkwon Producer,Dawn Star Marlborough Sauvignon Blanc,White,2018
+3,13.0,NEW ZEALAND,7.99,Sauvignon Blanc,10.99,Unkwon Producer,The Ned Waihopai River Sauvignon Blanc 2018 Marlborough,White,2018
+4,12.5,NEW ZEALAND,6.99,Sauvignon Blanc,8.99,Unkwon Producer,Castaway Island Marlborough Sauvignon Blanc 2018,White,2018
+5,14.5,FRANCE,7.99,"Merlot, Cabernet Franc, Cabernet Sauvignon",11.99,Unkwon Producer,Château Recougne 2016 Bordeaux Supérieur,Red,2016
+6,13.5,PORTUGAL,7.99,Smooth Red,8.99,Unkwon Producer,Porta 6 2017 Lisboa,Red,2017
+7,13.0,FRANCE,14.99,Rose,19.99,Unkwon Producer,Miraval Rosé 2018 Côtes de Provence,Rose,2018
+8,14.0,SPAIN,15.99,Smooth Red,17.99,Unkwon Producer,Rioja Reserva 2014 Beronia,Red,2014
+9,14.0,NEW ZEALAND,8.99,Crisp White,10.99,Unkwon Producer,The Ned Pinot Grigio 2018 Marlborough,White,2018
+10,13.0,FRANCE,10.99,"Merlot, Cabernet Franc",12.99,Unkwon Producer,Vieux Remparts 2016 Lussac St-Emilion,Red,2016
+11,13.0,SPAIN,8.99,Crisp White,10.99,Unkwon Producer,Caixas Albariño 2017/18 Rías Baixas,White,2017
+12,13.0,CHILE,5.99,"Syrah, Merlot",8.99,Unkwon Producer,Santa Rita 120 Merlot 2017 Central Valley,Red,2017
+13,13.5,SPAIN,23.99,Smooth Red,26.99,Unkwon Producer,Rioja Reserva Viña Ardanza 2009 La Rioja Alta,Red,2009
+14,12.5,NEW ZEALAND,8.99,Sauvignon Blanc,10.99,Unkwon Producer,Russian Jack Sauvignon Blanc 2017 Marlborough,White,2017
+15,13.5,CHILE,5.99,"Sémillon, Sauvignon Blanc",8.99,Unkwon Producer,Santa Rita 120 Sauvignon Blanc 2017 Central Valley,White,2017
+16,12.5,FRANCE,7.99,Pinot Noir,8.99,Unkwon Producer,Olivier Dubois Cuvee Prestige Pinot Noir 2017 VdF,Red,2017
+17,13.0,FRANCE,12.99,Chardonnay,16.99,Unkwon Producer,Chablis Elodie Duprés 2016,White,2016
+18,13.0,FRANCE,14.99,Sauvignon Blanc,16.99,Unkwon Producer,Sancerre 'Clos des Bouffants' 2018 Domaine Roger Neveu,White,2018
+19,13.5,SPAIN,7.99,Smooth Red,9.99,Unkwon Producer,Rioja Reserva 2013 Viña Alarde,Red,2013
+20,13.0,NEW ZEALAND,7.99,Sauvignon Blanc,9.99,Unkwon Producer,Parcel Series Marlborough Sauvignon Blanc 2018,White,2018
+21,14.0,CHILE,7.99,Big Red,11.99,Unkwon Producer,Santa Rita Medalla Real Carmenère 2017 Colchagua Valley,Red,2017
+22,9.5,PORTUGAL,7.99,Crisp White,8.99,Unkwon Producer,Porta 6 Vinho Verde 2018,White,2018
+23,13.5,FRANCE,9.99,Chardonnay,13.99,Unkwon Producer,Grand Ardèche Chardonnay 2016 Louis Latour,White,2016
+24,13.5,ARGENTINA,6.99,Malbec,9.99,Unkwon Producer,"Parcel Series Malbec 2018, Mendoza",Red,2018
+25,13.5,CHILE,7.99,Rich White,11.99,Unkwon Producer,Santa Rita Medalla Real Chardonnay 2018 Limari Valley,White,2018
+26,14.0,CHILE,8.99,Pinot Noir,13.99,Unkwon Producer,Parcel Series Chilean Pinot Noir,Red,2018
+27,13.5,FRANCE,11.99,Chardonnay,13.99,Unkwon Producer,Montagny 1er Cru 'Les Millières' 2018 Cave des Vignerons de Buxy,White,2018
+28,12.5,FRANCE,7.49,Rose,8.99,Unkwon Producer,La Belle Angele Rose 2018 VdF,Rose,2018
+29,13.0,NEW ZEALAND,8.99,Sauvignon Blanc,10.99,Unkwon Producer,Definition Marlborough Sauvignon Blanc 2018,White,2018
+30,12.5,PORTUGAL,7.99,Rose,8.99,Unkwon Producer,Porta 6 Rosé 2018,Rose,2018
+31,13.0,ARGENTINA,6.99,Malbec,8.99,Unkwon Producer,Las Maletas Malbec 2018 Mendoza,Red,2018
+32,14.5,AUSTRALIA,9.99,Shiraz,13.99,Unkwon Producer,Kangarilla Road Shiraz 2018 McLaren Vale,Red,2018
+33,14.0,ITALY,9.99,Big Red,11.99,Unkwon Producer,Passimento 2016 Pasqua,Red,2016
+34,14.0,AUSTRALIA,10.99,Cabernet Sauvignon,13.99,Unkwon Producer,Jim Barry Cover Drive Cabernet Sauvignon 2015 Coonawarra,Red,2015
+35,14.0,FRANCE,11.99,Smooth Red,13.99,Unkwon Producer,Côtes du Rhône 2015 E. Guigal,Red,2015
+36,13.0,ARGENTINA,7.99,Malbec,9.99,Unkwon Producer,Beefsteak Club Malbec 2017 Mendoza,Red,2017
+37,14.5,USA,12.99,Big Red,14.99,Unkwon Producer,Ravenswood Lodi Zinfandel 2014,Red,2014
+38,13.5,FRANCE,9.99,Rich White,11.99,Unkwon Producer,Definition Chardonnay 2018,White,2018
+39,14.0,ITALY,9.99,Big Red,11.99,Unkwon Producer,Surani Costarossa 2018 Primitivo di Manduria,Red,2018
+40,13.0,NEW ZEALAND,10.99,Sauvignon Blanc,12.99,Unkwon Producer,"Blind River Sauvignon Blanc 2018 Awatere Valley, Marlborough",White,2018
+41,13.5,FRANCE,10.99,Pinot Noir,13.99,Unkwon Producer,Pinot Noir Domaine de Valmoissine 2016 Louis Latour,Red,2016
+42,14.5,ARGENTINA,9.99,Malbec,12.99,Unkwon Producer,Viñalba Malbec-Touriga Nacional Reserve 2017 Mendoza,Red,2017
+43,13.0,SPAIN,11.99,Crisp White,13.49,Unkwon Producer,Albariño Martín Códax 2017/18 Rías Baixas,White,2017
+44,12.5,CHILE,4.99,Merlot,7.99,Unkwon Producer,Valle Antigua Merlot 2017,Red,2017
+45,13.0,PORTUGAL,7.99,Crisp White,9.99,Unkwon Producer,Planalto White Reserva 2017 Douro,White,2017
+46,12.5,FRANCE,8.99,Rose,9.99,Unkwon Producer,Vallée Des Pins Rosé 2018 Côteaux d'Aix en Provence,Rose,2018
+47,12.0,CHILE,5.99,Sauvignon Blanc,6.99,Unkwon Producer,Majestic Loves Sauvignon 2018,White,2018
+48,14.1,AUSTRALIA,18.99,Shiraz,21.99,Unkwon Producer,"Gnarly Dudes Shiraz 2016 Two Hands, Barossa Valley",Red,2016
+49,14.5,ARGENTINA,9.99,Malbec,12.99,Unkwon Producer,Viñalba Reserve Malbec 2017 Mendoza,Red,2017
+50,13.5,ARGENTINA,11.99,Malbec,13.99,Unkwon Producer,Catena Malbec 2017 Mendoza,Red,2017
+51,12.5,FRANCE,6.99,Carignan,7.99,Unkwon Producer,Alain Grignon Carignan Vieilles Vignes 2017 PGI Pays de l'Hérault,Red,2017
+52,13.0,NEW ZEALAND,11.99,Sauvignon Blanc,14.99,Unkwon Producer,The King's Favour Sauvignon Blanc 2017 Marlborough,White,2017
+53,14.5,FRANCE,14.99,Big Red,16.99,Unkwon Producer,Lirac Vignobles Abeille 2016 Mont Redon,Red,2016
+54,14.0,AUSTRALIA,9.99,Cabernet Sauvignon,15.99,Unkwon Producer,Parcel Series Coonawarra Cabernet Sauvignon,Red,2018
+55,14.0,CHILE,7.99,Cabernet Sauvignon,11.99,Unkwon Producer,Santa Rita Medalla Real Cabernet Sauvignon 2016 Maipo Valley,Red,2016
+56,13.0,FRANCE,7.99,Rose,8.99,Unkwon Producer,Haut Vol Rosé 2018 VdF,Rose,2018
+57,12.0,USA,8.99,Riesling,10.99,Unkwon Producer,Parcel Series Riesling 2017,White,2017
+58,14.0,ITALY,14.99,Big Red,16.99,Unkwon Producer,Valpolicella Superiore Ripasso 2016 La Casetta,Red,2016
+59,13.0,NEW ZEALAND,22.99,Sauvignon Blanc,25.99,Unkwon Producer,Cloudy Bay Sauvignon Blanc 2018 Marlborough,White,2018
+60,13.5,CHILE,5.99,Big Red,8.99,Unkwon Producer,Santa Rita 120 Carménère 2018 Central Valley,Red,2018
+61,12.0,CHILE,5.84,Sauvignon Blanc,6.49,Unkwon Producer,Silver Ghost Sauvignon Blanc 2017 Central Valley,White,2017
+62,13.0,FRANCE,11.99,Chardonnay,13.99,Unkwon Producer,Mâcon-Lugny 2017 Louis Latour,White,2017
+63,13.0,FRANCE,17.99,Rose,22.99,Unkwon Producer,Whispering Angel Rosé 2018,Rose,2018
+64,13.5,USA,13.99,Rich White,15.99,Unkwon Producer,Bread & Butter Chardonnay 2017,White,2017
+65,13.0,FRANCE,7.99,Rose,9.99,Unkwon Producer,Jas de Vignes IGP Mediterranee Rosé 2018,Rose,2018
+66,13.0,NEW ZEALAND,8.99,Sauvignon Blanc,10.99,Unkwon Producer,Villa Maria Private Bin Sauvignon Blanc 2018 Marlborough,White,2018
+67,12.0,CHILE,5.84,Cabernet Sauvignon,6.49,Unkwon Producer,Silver Ghost Cabernet Sauvignon 2016 Central Valley,Red,2016
+68,12.5,NEW ZEALAND,8.49,Fruity White,9.49,Unkwon Producer,Mud House Sauvignon Blanc 2018 Marlborough,White,2018
+69,12.5,FRANCE,11.99,Rose,13.99,Unkwon Producer,"Peyrassol, Reserve des Templiers Rosé 2018 Côtes de Provence",Rose,2018
+70,13.0,FRANCE,25.99,Rose,28.99,Unkwon Producer,AIX Rosé 2018 Coteaux d'Aix en Provence Magnum,Rose,2018
+71,14.5,CHILE,14.99,"Grenache, Syrah, Mourvèdre",16.99,Unkwon Producer,LFE 900 Single-Vineyard 2013 Colchagua Valley,Red,2013
+72,13.5,CHILE,7.99,Big Red,9.99,Unkwon Producer,Luis Felipe Edwards Gran Reserva Merlot 2017 Colchagua Valley,Red,2017
+73,13.5,CHILE,6.99,Fruity White,7.99,Unkwon Producer,Luis Felipe Edwards Signature Series Viognier Reserva 2017/18 Rapel Valley,White,2017
+74,13.0,CHILE,6.99,Sauvignon Blanc,7.99,Unkwon Producer,Lady Sauvignon 2018 Casablanca Valley,White,2018
+75,13.5,CHILE,6.99,Big Red,7.99,Unkwon Producer,Lastarria Malbec 2018,Red,2018
+76,14.5,SPAIN,7.99,Tempranillo,9.99,Unkwon Producer,Finca Carelio Tempranillo 2015 Vino de la Tierra,Red,2015
+77,12.5,FRANCE,7.99,Fruity White,9.99,Unkwon Producer,Villemarin Picpoul de Pinet 2018 Côteaux du Languedoc,White,2018
+78,13.5,FRANCE,9.99,Rose,11.99,Unkwon Producer,Domaine La Chautarde Rosé 2018 Côteaux Varois en Provence,Rose,2018
+79,12.5,NEW ZEALAND,6.99,Sauvignon Blanc,10.49,Unkwon Producer,Oyster Bay Sauvignon Blanc 2018 Marlborough,White,2018
+80,13.0,FRANCE,11.99,Rose,14.99,Unkwon Producer,M de Minuty Rosé 2018 Côtes de Provence,Rose,2018
+81,12.5,ITALY,7.99,Pinot Grigio,8.99,Unkwon Producer,Pinot Grigio Rosé 2018 Delle Venezie,Rose,2018
+82,12.5,ITALY,7.99,Pinot Grigio,8.99,Unkwon Producer,Pinot Grigio Superiore 2018 Breganze,White,2018
+83,13.5,SOUTH AFRICA,7.49,Viognier,9.99,Unkwon Producer,Men in White Coats Viognier,White,2018
+84,13.5,FRANCE,10.99,"Cabernet Sauvignon, Cabernet Franc, Merlot",12.99,Unkwon Producer,Château Méaume 2015 Bordeaux Supérieur,Red,2015
+85,13.5,SPAIN,9.99,Smooth Red,13.99,Unkwon Producer,Rioja Reserva 2013/14 CVNE,Red,2013
+86,13.0,FRANCE,7.99,Fruity White,9.99,Unkwon Producer,Abbotts & Delaunay Viognier 2018,White,2018
+87,12.0,ITALY,5.99,Pinot Grigio,7.99,Unkwon Producer,Pinot Grigio Villa Vito 2018,White,2018
+88,12.0,FRANCE,7.99,"Picpoul, Sauvignon Blanc",9.99,Unkwon Producer,Symbiose Piquepoul Sauvignon Blanc 'Cuvée Florence' 2017 Côtes de Thau,White,2017
+89,13.0,NEW ZEALAND,17.99,Sauvignon Blanc,19.99,Unkwon Producer,Greywacke Sauvignon 2018 Marlborough,White,2018
+90,14.2,AUSTRALIA,17.99,Shiraz,21.99,Unkwon Producer,"'Angels' Share' Shiraz 2018 Two Hands, McLaren Vale",Red,2018
+91,12.5,FRANCE,12.99,Rose,14.99,Unkwon Producer,Château de Berne Rosé 2018 Côtes de Provence,Rose,2018
+92,14.5,ARGENTINA,9.99,Big Red,11.99,Unkwon Producer,Definition Malbec 2018,Red,2018
+93,14.5,SPAIN,8.99,Big Red,9.99,Unkwon Producer,Matsu El Picaro 2018 Toro,Red,2018
+94,14.0,SPAIN,16.99,Smooth Red,18.99,Unkwon Producer,Rioja Reserva 2015 Muga,Red,2015
+95,14.5,AUSTRALIA,29.0,Shiraz,33.0,Unkwon Producer,Penfolds Bin 28 Kalimna Shiraz 2016 South Australia,Red,2016
+96,14.0,PORTUGAL,9.99,Smooth Red,11.99,Unkwon Producer,Porta 6 Reserva 2017,Red,2017
+97,14.0,USA,9.99,Pinot Noir,15.99,Unkwon Producer,Edna Valley Pinot Noir 2016,Red,2016
+98,14.0,AUSTRALIA,10.99,Shiraz,15.99,Unkwon Producer,"The Lodge Hill Shiraz 2016/17 Jim Barry, Clare Valley",Red,2016
+99,14.5,SOUTH AFRICA,13.99,"Malbec, Petit Verdot, Cabernet Franc, Merlot, Cabernet Sauvignon",17.99,Unkwon Producer,Rustenberg John X Merriman 2016 Stellenbosch,Red,2016
+100,12.5,HUNGARY,5.99,Crisp White,6.99,Unkwon Producer,Majestic Loves Gruner Veltliner 2018,White,2018
+101,14.5,FRANCE,6.74,"Mourvèdre, Cinsault, Syrah, Grenache",7.99,Unkwon Producer,Petit Perdigal Rouge 2018,Red,2018
+102,12.5,GERMANY,10.99,Crisp White,12.99,Unkwon Producer,Peter & Ulrich Dry Riesling 2018,White,2018
+103,12.0,ITALY,6.66,Pinot Grigio,9.99,Unkwon Producer,Ammazza Pinot Grigio IGT,White,2018
+104,14.0,FRANCE,11.99,"Shiraz, Syrah",13.99,Unkwon Producer,Crozes-Hermitage 2017 Cuvee Pallatin ,Red,2017
+105,13.0,FRANCE,10.99,Rose,12.99,Unkwon Producer,Château Pigoudet La Chapelle Rosé 2017 Coteaux dAix-en-Provence,Rose,2017
+106,13.0,CHILE,4.99,Crisp White,7.99,Unkwon Producer,Valle Antigua Chardonnay 2018,White,2018
+107,12.5,FRANCE,8.99,Viognier,11.99,Unkwon Producer,Jaboulet Viognier 2018,White,2018
+108,14.0,SPAIN,6.99,Smooth Red,9.99,Unkwon Producer,Rioja Crianza 2015 CVNE,Red,2015
+109,13.5,ITALY,11.99,Big Red,13.99,Unkwon Producer,Valpolicella Ripasso 2017 Villa Borghetti,Red,2017
+110,14.0,NEW ZEALAND,17.99,Fruity Red,24.0,Unkwon Producer,Craggy Range Te Muna Road Pinot Noir 2016 Martinborough,Red,2016
+111,13.0,NEW ZEALAND,9.99,Sauvignon Blanc,12.99,Unkwon Producer,Waimea Estate Sauvignon Blanc 2017 Nelson,White,2017
+112,12.0,FRANCE,8.99,Melon de Bourgogne,9.99,Unkwon Producer,Muscadet de Sèvre et Maine Sur Lie 2018 Domaine de la Tourmaline,White,2018
+113,12.0,NEW ZEALAND,16.99,Sauvignon Blanc,19.99,Unkwon Producer,Saint Clair Pioneer Block Sauvignon Blanc 2016 Marlborough,White,2016
+114,12.5,SOUTH AFRICA,5.99,Merlot,7.99,Unkwon Producer,Acacia Road Merlot 2018,Red,2018
+115,13.0,ITALY,8.99,Fruity White,11.99,Unkwon Producer,Passimento Bianco 2017 Pasqua,White,2017
+116,13.5,ARGENTINA,5.99,Malbec,7.99,Unkwon Producer,Avior Malbec 2018,Red,2018
+117,12.5,SPAIN,7.99,Rich White,9.99,Unkwon Producer,Rioja Blanco 2018 López de Haro,White,2018
+118,13.0,NEW ZEALAND,8.99,Sauvignon Blanc,10.99,Unkwon Producer,Black Cottage Sauvignon Blanc 2018 Marlborough,White,2018
+119,12.5,FRANCE,20.99,Chardonnay,23.99,Unkwon Producer,Chablis 1er CR Monts & Vallees,White,2018
+120,13.0,USA,7.99,Viognier,8.99,Unkwon Producer,Nettie Viognier 2017,White,2017
+121,14.5,ARGENTINA,8.99,Malbec,9.99,Unkwon Producer,"Parrilla Malbec 2017 Viñalba, Mendoza",Red,2017
+122,12.5,FRANCE,11.99,"Gamay, Pinot Noir",13.99,Unkwon Producer,Mâcon Rouge 'Les Roches Rouges' 2017 Louis Jadot,Red,2017
+123,13.0,PORTUGAL,7.99,Smooth Red,9.99,Unkwon Producer,"Agenda, Dão Manager's Choice 2016",Red,2016
+124,12.5,FRANCE,10.99,Pinot Noir,13.99,Unkwon Producer,Bourgogne Pinot Noir 2017 Nicolas Potel,Red,2017
+125,14.5,SOUTH AFRICA,22.0,"Viognier, Cinsault, Cabernet Sauvignon, Grenache, Syrah",25.0,Unkwon Producer,"The Chocolate Block 2017 Boekenhoutskloof, Western Cape",Red,2017
+126,12.5,FRANCE,5.99,Malbec,6.99,Unkwon Producer,La Baume Grande Olivette Malbec 2017 VdF,Red,2017
+127,14.0,ARGENTINA,9.99,Malbec,12.99,Unkwon Producer,"Marcelo Pelleriti Malbec 2018 Valle De Uco, Mendoza",Red,2018
+128,13.0,NEW ZEALAND,8.49,Chardonnay,10.49,Unkwon Producer,Oyster Bay Chardonnay 2016 Marlborough,White,2016
+129,12.5,FRANCE,12.74,Rose,16.99,Unkwon Producer,Sancerre Rosé 2017 Jean-Marie Berthier,Rose,2017
+130,14.0,SOUTH AFRICA,9.99,Chenin Blanc,12.99,Unkwon Producer,Definition Chenin Blanc 2018,White,2018
+131,15.0,ITALY,19.99,Big Red,22.99,Unkwon Producer,Amarone Classico 'Vigneti di Roccolo' 2016 Cantina Negrar,Red,2016
+132,13.5,NEW ZEALAND,12.99,Rich White,15.99,Unkwon Producer,The King's Legacy Chardonnay 2017 Marlborough,White,2017
+133,13.0,ITALY,11.99,Big Red,13.99,Unkwon Producer,Montepulciano d'Abruzzo 2016 Masciarelli,Red,2016
+134,12.0,FRANCE,12.99,Chardonnay,14.49,Unkwon Producer,Petit Chablis 2016 Domaine Louis Moreau,White,2016
+135,14.0,USA,9.99,Chardonnay,15.99,Unkwon Producer,Edna Valley Chardonnay 2016,White,2016
+136,13.0,FRANCE,16.99,Rose,18.99,Unkwon Producer,Minuty Cuvée Prestige 2018 Côtes de Provence,Rose,2018
+137,12.5,CHILE,4.99,Sauvignon Blanc,7.99,Unkwon Producer,Valle Antigua Sauvignon Blanc 2017,White,2017
+138,14.0,SPAIN,8.99,Smooth Red,9.99,Unkwon Producer,Rioja 'Single Vineyard' 2017 Ramón Bilbao,Red,2017
+139,14.5,AUSTRALIA,7.99,Shiraz,9.99,Unkwon Producer,Making Tracks Shiraz 2018,Red,2018
+140,12.5,ROMANIA,5.99,Fruity Red,7.99,Unkwon Producer,Incanta Pinot Noir 2018,Red,2018
+141,14.0,FRANCE,9.99,"Carignan, Mourvèdre, Syrah, Grenache",11.99,Unkwon Producer,Côtes du Rhône 2016 Vidal-Fleury,Red,2016
+142,13.0,FRANCE,9.99,Gamay,12.99,Unkwon Producer,Fleurie 2018 Georges Duboeuf,Red,2018
+143,14.0,AUSTRALIA,9.99,Cabernet Sauvignon,11.99,Unkwon Producer,Wakefield Estate Cabernet Sauvignon 2016 Clare Valley,Red,2016
+144,13.0,AUSTRALIA,5.99,Chardonnay,6.99,Unkwon Producer,"""The Astronomer"" Chardonnay 2018 De Bortoli",White,2018
+145,13.0,FRANCE,8.99,Gamay,10.99,Unkwon Producer,Hospices de Beaujeu 2017,Red,2017
+146,13.5,FRANCE,9.99,Cabernet Franc,11.99,Unkwon Producer,"Saumur Rouge 2017, Domaine des Vignes Biches",Red,2017
+147,13.0,NEW ZEALAND,24.75,Sauvignon Blanc,27.5,Unkwon Producer,Marisco Pride and Glory Sauvignon Blanc 2013 Marlborough,White,2013
+148,13.0,FRANCE,11.99,Chardonnay,14.99,Unkwon Producer,Bourgogne Côte Chalonnaise 2016 La Buxynoise,White,2016
+149,12.5,ITALY,54.0,Rich White,60.0,Unkwon Producer,Cervaro Antinori 2016 IGT,White,2016
+150,20.0,PORTUGAL,19.99,Malvasia,22.99,Unkwon Producer,10 year old Malmsey NV Henriques & Henriques,Dessert & Fortified,2018
+151,12.5,FRANCE,5.99,"Carignan, Grenache",6.99,Unkwon Producer,Cuvée Sainte Geneviève Rouge VdF,Red,2018
+152,13.0,FRANCE,10.99,Chardonnay,13.99,Unkwon Producer,Domaine Fichet Macon Burgy,White,2018
+153,12.0,SOUTH AFRICA,14.99,"Syrah, Grenache, Cabernet Sauvignon, Carignan, Cinsault",19.99,Unkwon Producer,Alheit Limited Release Red Blend,Red,2018
+154,14.0,ITALY,15.99,Big Red,17.99,Unkwon Producer,Barolo Araldica 2013,Red,2013
+155,14.0,SOUTH AFRICA,9.99,Grüner Veltliner,11.99,Unkwon Producer,Diemersdal Gruner Veltliner 2018 Durbanville,White,2018
+156,14.0,SOUTH AFRICA,14.99,"Merlot, Cabernet Franc, Cabernet Sauvignon",17.99,Unkwon Producer,Thunderchild Bordeaux Blend,Red,2018
+157,17.5,SPAIN,14.99,Palomino,16.99,Unkwon Producer,Amontillado Seco Napoleon Hidalgo,Dessert & Fortified,2018
+158,12.5,FRANCE,13.99,Chardonnay,15.99,Unkwon Producer,Vire Clesse Pierre Ponnelle,White,2018
+159,13.5,FRANCE,8.99,"Cabernet Franc, Merlot, Cabernet Sauvignon",9.99,Unkwon Producer,Château Pierrousselle 2016,Red,2016
+160,13.5,FRANCE,24.99,"Merlot, Cabernet Sauvignon",29.99,Unkwon Producer,Aurore de Dauzac 2014,Red,2014
+161,14.0,FRANCE,19.99,"Merlot, Cabernet Sauvignon",24.99,Unkwon Producer,Lay & Wheeler St Emilion 2015,Red,2015
+162,13.0,ARGENTINA,7.49,Fruity White,9.99,Unkwon Producer,Viñalba Selección Torrontés 2018 Lujan de Cuyo,White,2018
+163,13.0,FRANCE,8.99,Mourvèdre,9.99,Unkwon Producer,Abbotts & Delaunay Mourvedre 2016,Red,2016
+164,13.0,AUSTRALIA,7.99,Cabernet Sauvignon,9.99,Unkwon Producer,Making Tracks Cabernet Sauvignon 2017,Red,2017
+165,13.0,FRANCE,15.99,Rich White,17.99,Unkwon Producer,Rully Blanc En Rosey 2016 Maison Chanzy,White,2016
+166,11.0,HUNGARY,26.99,"Harslevelu, Furmint",29.99,Unkwon Producer,Royal Tokaji 5 Puttonyos 2013 Hungary,Dessert & Fortified,2013
+167,14.0,ITALY,90.0,Big Red,100.0,Unkwon Producer,Tignanello 2015 P. Antinori,Red,2015
+168,12.5,ITALY,24.3,Crisp White,27.0,Unkwon Producer,Vigneto du Lot Soave Classico 2016 Inama,White,2016
+169,14.0,NEW ZEALAND,16.99,Fruity Red,18.99,Unkwon Producer,Coney Pizzicato Pinot Noir 2017 Martinborough,Red,2017
+170,12.5,SOUTH AFRICA,14.99,"Sauvignon Blanc, Pinot Gris",19.99,Unkwon Producer,Miss Lucy Sauvignon Pinot Gris,White,2018
+171,13.0,HUNGARY,10.99,Crisp White,12.99,Unkwon Producer,Royal Tokaji Dry Tokaji 2015/16,White,2015
+172,13.5,FRANCE,9.99,"Viognier, Grenache",11.99,Unkwon Producer,Hexadique Cote du Rhone Blanc,White,2018
+173,13.5,ITALY,8.99,Big Red,9.99,Unkwon Producer,Sassaiolo Rosso Piceno 2014 Monte Schiavo,Red,2014
+174,13.0,FRANCE,25.0,Chardonnay,30.0,Unkwon Producer,Lay & Wheeler Chablis 2015,White,2015
+175,14.0,FRANCE,40.0,Viognier,45.0,Unkwon Producer,Condrieu 2017 E. Guigal,White,2017
+176,13.5,FRANCE,17.99,"Carignan, Syrah, Grenache",19.99,Unkwon Producer,Definition Côtes Du Rhône Magnum 2016,Red,2016
+177,13.0,ARGENTINA,8.99,Fruity White,9.99,Unkwon Producer,Alamos Uco Valley Viognier 2018,White,2018
+178,13.0,CHILE,7.99,Fruity Red,9.99,Unkwon Producer,Morande M Pinot Noir 2018,Red,2018
+179,12.5,FRANCE,12.99,Sauvignon Blanc,14.99,Unkwon Producer,Domaine du Vaux Chenonceaux 2016,White,2016

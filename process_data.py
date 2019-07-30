@@ -57,6 +57,18 @@ wines_df.wine_color.fillna('Red',inplace=True)
 wines_df.year = wines_df.year.astype(str).map(lambda x :x.replace('.0',''))
 
 #%%
+wines_df.year.replace('nan','2018',inplace=True)
+
+
+#%%
+wines_df.info()
+
+#%%
+wines_df.year.value_counts()
+
+
+#%%
 wines_df.to_csv('wines_final.csv')
+
 
 #%%

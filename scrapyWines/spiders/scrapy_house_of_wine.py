@@ -91,7 +91,7 @@ class SpyderHouseWines(scrapy.Spider):
 
         wine_loader.add_value(
                 'discount_price',
-                data.get('discount_price')
+                data.get('price_discount')
                 )
         wine_loader.add_value(
                 'producer',

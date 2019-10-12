@@ -7,7 +7,8 @@ This a scrapy example used as a part of a project for my university. the data ex
 
 The project structured is the following 
 
-`├── house_of_wines2.csv
+```
+├── house_of_wines2.csv
 ├── majestic_wines2.csv
 ├── majestic_wines.csv
 ├── process_data.py
@@ -50,7 +51,12 @@ The project structured is the following
 │   └── product_house_wines.csv
 ├── Untitled1.ipynb
 ├── Wines_data_visualization_and_analysis.ipynb
-└── wines_final.csv  ` 
+└── wines_final.csv  
+```
+
+
+
+
 
 ### Spiders 
 
